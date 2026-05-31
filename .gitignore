@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Source scans & derived images — large and may be rights-restricted.
+# Commit selectively if you want to share examples.
+raw/
+processed/cropped/
+processed/segmented/
+*.rar
+
+# Keep text outputs (transcriptions/translations) and the manifest — they're
+# the valuable, lightweight results. Un-ignore explicitly if desired:
+#   processed/transcriptions/  processed/translations/  dataset/manifest.csv
+
+# Previews / logs
+processed/**/*_preview.jpg
+processed/crop_log.txt
