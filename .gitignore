@@ -18,13 +18,13 @@ raw/
 gold_harvest/
 
 # Per-line strips + their derived .gt.txt training labels (regenerable from ensemble.tsv)
-gold/*/lines/
+gold/**/lines/
 
 # Internal working docs — stay LOCAL (user directive). CLAUDE.md also excluded globally.
 HANDOVER.md
 
 # review.html needs the local line-strip images to render — keep local only
-gold/*/review.html
+gold/**/review.html
 
 # Logs
 *.log
