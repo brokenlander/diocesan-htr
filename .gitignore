@@ -3,17 +3,37 @@
 __pycache__/
 *.pyc
 
-# Source scans & derived images — large and may be rights-restricted.
-# Commit selectively if you want to share examples.
-raw/
-processed/cropped/
-processed/segmented/
+# === Never commit images, scans, model binaries, or archives (anywhere) ===
+*.jpg
+*.jpeg
+*.png
 *.rar
+*.safetensors
+*.ckpt
+*.arrow
+*.mlmodel
 
-# Keep text outputs (transcriptions/translations) and the manifest — they're
-# the valuable, lightweight results. Un-ignore explicitly if desired:
-#   processed/transcriptions/  processed/translations/  dataset/manifest.csv
+# Raw scans + intermediate line-image harvest (regenerable from scripts)
+raw/
+gold_harvest/
 
-# Previews / logs
-processed/**/*_preview.jpg
-processed/crop_log.txt
+# Per-line strips + their derived .gt.txt training labels (regenerable from ensemble.tsv)
+gold/*/lines/
+
+# Internal working docs — stay LOCAL (user directive). CLAUDE.md also excluded globally.
+HANDOVER.md
+
+# review.html needs the local line-strip images to render — keep local only
+gold/*/review.html
+
+# Logs
+*.log
+
+# === What IS committed (the text): ===
+#   README.md
+#   scripts/*.py
+#   dataset/manifest.csv, dataset/pages.csv
+#   processed/transcriptions/reconciled/*.txt (+ turate_reconciled.txt), mccatmus/, tridis/
+#   processed/translations/*.txt (+ turate_italiano.txt)
+#   gold/<pid>/ensemble.tsv, correct.tsv, *.alto.xml   (per-line candidates + reconciliation)
+#   gold/models/v3_review.tsv, *_trainfiles.txt

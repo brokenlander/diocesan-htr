@@ -1,0 +1,8 @@
+gold/p001/lines/L001.png
+gold/p001/lines/L016.png
+gold/p002a/lines/L011.png
+gold/p002a/lines/L021.png
+gold/p002b/lines/L011.png
+gold/p003a/lines/L001.png
+gold/p003a/lines/L017.png
+gold/p003b/lines/L013.png

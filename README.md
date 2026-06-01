@@ -46,10 +46,10 @@ reconciles:
 flowchart LR
     A[raw scan] --> B[EXIF-orient + crop to text]
     B --> C[McCATMuS / Kraken]
-    B --> D[Transkribus<br/>Italian Admin Hands]
-    B --> E[Gemini<br/>blind read]
+    B --> D[TRIDIS v2 / Kraken]
+    B --> E[Transkribus<br/>Italian Admin Hands<br/>ad hoc, gold only]
     B --> F[Claude direct read]
-    C --> G{{Claude reconciler<br/>image-grounded, run x2}}
+    C --> G{{Claude reconciler<br/>image-grounded, per line}}
     D --> G
     E --> G
     F --> G
@@ -62,13 +62,14 @@ flowchart LR
 | Engine | Role | Why |
 |---|---|---|
 | **McCATMuS** (Kraken) | local workhorse | covers 16th–21st c., Italian + Latin; free, unlimited, runs on CPU |
-| **Transkribus — Italian Administrative Hands 1550–1700** | period/region specialist | trained on Milan/Venice/Florence/Pisa/Genoa archives for parish & tax records; used as a tie-breaker (paid credits) |
-| **Gemini** (vision LLM) | decorrelated blind read | different model family from both HTR engines and the reconciler |
-| **Claude** | reconciler + 4th reader | reads the image alongside all candidates; run twice to flag uncertainty |
+| **TRIDIS v2** (Kraken) | second local read | documentary Latin strength — especially the episcopal decrees; free, CPU |
+| **Transkribus — Italian Administrative Hands 1550–1700** | period/region specialist | Milan/Venice/Florence/Pisa/Genoa archives; used *ad hoc* to help build gold pages (free tier) |
+| **Claude** | reconciler + reader | reads the image alongside all candidates and reconciles per line |
 
-Engines considered and **rejected**: *Tridis v2* (wrong period — 11th–16th c., no
-Italian); *TrOCR-f* (strong architecture but no ready 17th-c Italian checkpoint —
-kept as a phase-2 fine-tune target).
+Engines considered and **rejected**: *Gemini / vision-LLM blind transcriber* (on the
+only Italian historical HTR benchmark, LLMs hit 20–26% CER and hallucinate — too risky
+as a gold candidate); *TrOCR-f* (strong architecture but no ready 17th-c Italian
+checkpoint — kept as a phase-2 fine-tune target).
 
 ---
 
@@ -100,19 +101,22 @@ kept as a phase-2 fine-tune target).
 ## Repository layout
 
 ```
-raw/                         original scans (gitignored)
+raw/                              original scans (gitignored — large/rights-restricted)
 processed/
-  cropped/<page_id>.jpg       EXIF-corrected, cropped-to-text — canonical engine input
-  transcriptions/<engine>/    one .txt per page per engine
-  translations/
-dataset/manifest.csv          the spine: page_id, register, dims, checksum, status
-scripts/
-  build_manifest.py           index the archive
-  crop_pages.py               EXIF-orient + crop to text
-  dedupe_audit.py             perceptual near-duplicate audit (cross-check only)
+  cropped/<pid>.jpg               EXIF+spread-split+cropped images (gitignored)
+  transcriptions/
+    reconciled/<pid>.txt          ★ best transcription per page (+ turate_reconciled.txt)
+    mccatmus/  tridis/            raw per-engine output
+  translations/<pid>.txt          modern-Italian normalization (+ turate_italiano.txt)
+gold/<pid>/ensemble.tsv           per-line candidates (v2|McCATMuS|TRIDIS) + reconciled
+gold/models/                      fine-tuned model weights (gitignored), v3_review.tsv
+dataset/manifest.csv              photo inventory · pages.csv  page index (383 pages)
+scripts/                          full pipeline (crop → ocr → gold → fine-tune →
+                                  bootstrap → ensemble → reconcile → normalize)
 ```
 
-Pages are keyed `p001`–`p359` (register-then-filename order) across all stages.
+Pages are keyed `p001…p024b` — a photo id, plus an `a`/`b` suffix for the two halves of
+an open-book spread — consistent across every stage.
 
 ---
 
@@ -142,15 +146,31 @@ MODEL=$(find ~/.local/share/htrmopo -name 'McCATMuS*.mlmodel' | head -1)
 
 ## Status
 
-- [x] Acquire & extract archive
+- [x] Acquire & extract archive (359 photos)
 - [x] Manifest + dataset structure
-- [x] Preprocessing — EXIF orientation + crop-to-text (robust across all registers)
-- [x] McCATMuS installed and proven end-to-end
-- [ ] Batch McCATMuS over all pages
-- [ ] Transkribus + Gemini passes
-- [ ] Image-grounded reconciliation
+- [x] Preprocessing — EXIF orientation + open-book **spread-splitting** + crop-to-text → **383 pages**
+- [x] McCATMuS baseline (local, CPU)
+- [x] **Fine-tune + bootstrap loop on Turate (1679)** — v1 → v2 → v3
+- [x] **Claude reconciliation of all 46 Turate pages** (image-grounded, register-wide context)
+- [x] Draft **modern-Italian normalization** (interpretive edition)
+- [ ] Paleographer verification → human-verified gold + true CER
+- [ ] v4 + roll out to remaining registers (X4, X18, X20, X44, X5-Latin)
 - [ ] Text-based deduplication
-- [ ] Translation
+
+### Results so far — Turate 1679 (one scribe, 46 pages)
+
+Validation character-accuracy of the fine-tuned recognizer, each round trained on
+progressively better gold (seed → bootstrap-harvest → Claude-reconciled):
+
+| model | training data | val char-acc |
+|---|---|---|
+| stock McCATMuS | — | ~0.59 |
+| v1 | 80 human-seed lines | 0.818 |
+| v2 | + 836 bootstrap-harvested lines | 0.856 |
+| **v3** | **677 Claude-reconciled lines** | **0.878** |
+
+Outputs: reconciled transcription in `processed/transcriptions/reconciled/` (+ a combined
+`turate_reconciled.txt`); draft Italian normalization in `processed/translations/`.
 
 ---
 
