@@ -3,6 +3,11 @@
 __pycache__/
 *.pyc
 
+# === SECRETS — never commit. The API key lives at ~/.config/gemini.key, OUTSIDE the repo. ===
+gemini.key
+*.key
+**/gemini.key
+
 # === Never commit images, scans, model binaries, or archives (anywhere) ===
 *.jpg
 *.jpeg
@@ -13,27 +18,51 @@ __pycache__/
 *.arrow
 *.mlmodel
 
-# Raw scans + intermediate line-image harvest (regenerable from scripts)
+# Raw scans + regenerable line-image harvest
 raw/
 gold_harvest/
-
-# Per-line strips + their derived .gt.txt training labels (regenerable from ensemble.tsv)
 gold/**/lines/
-
-# Internal working docs — stay LOCAL (user directive). CLAUDE.md also excluded globally.
-HANDOVER.md
-
-# review.html needs the local line-strip images to render — keep local only
 gold/**/review.html
+
+# Derived training/model workspace (regenerable, multi-GB) — keep out of a text-only repo,
+# except the two small curated artifacts we DO keep.
+gold/models/**
+!gold/models/**/v3_review.tsv
+!gold/models/**/*_trainfiles.txt
+# v1-era parallel Gemini reads (429 stubs / superseded) — NOT the canonical finals
+gold/models/gemini/
+
+# Pipeline intermediates (regenerable raw model output; the deliverable is reconciled/<pid>.txt)
+processed/transcriptions/**/candidates/
+processed/transcriptions/**/meta/
+processed/transcriptions/**/draft/
+processed/transcriptions/**/archive_v1/
+# superseded pre-v2.1 finals (used only as a 2nd vote during the re-queue; reconciled/ is canonical)
+processed/transcriptions/**/inherited_v1/
+gold/**/candidates/
+gold/**/meta/
+
+# Scratch / debugging dumps (underscore-prefixed throwaways); keep the live launcher
+pipeline/_*.txt
+pipeline/_*.sh
+!pipeline/_run_v2.sh
+/_*.txt
+
+# Internal working docs — stay LOCAL (user directive). CLAUDE.md is excluded globally.
+HANDOVER.md
 
 # Logs
 *.log
 
-# === What IS committed (the text): ===
+# === What IS committed (the TEXT deliverables + the live pipeline) ===
 #   README.md
-#   scripts/*.py
+#   pipeline/README.md, pipeline/VERIFY_LOOP.md, pipeline/*.py, pipeline/config.json, pipeline/_run_v2.sh
+#   scripts/*.py  (+ scripts/_archive/ for reference)
+#   registers/**/context.md
 #   dataset/manifest.csv, dataset/pages.csv
-#   processed/transcriptions/reconciled/*.txt (+ turate_reconciled.txt), mccatmus/, tridis/
-#   processed/translations/*.txt (+ turate_italiano.txt)
-#   gold/<pid>/ensemble.tsv, correct.tsv, *.alto.xml   (per-line candidates + reconciliation)
-#   gold/models/v3_review.tsv, *_trainfiles.txt
+#   processed/transcriptions/<slug>/reconciled/*.txt        (the canonical finals)
+#   processed/transcriptions/_REVIEW_QUEUE.txt              (human-review queue)
+#   processed/translations/*.txt
+#   gold/<pid>/ensemble.tsv, correct.tsv, *.alto.xml        (per-line gold, if/when made)
+#   gold/models/**/v3_review.tsv, *_trainfiles.txt          (curated; re-included above)
+processed/transcriptions/**/pre_gemini/

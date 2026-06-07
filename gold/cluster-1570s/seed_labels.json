@@ -1,0 +1,140 @@
+{
+  "_note": "Combined 1570s-CLUSTER seed (X4+X18+X20+X44 — one late-16th-c. scribal tradition, 80% of the archive). Claude-reconciled confident lines only (clean full lines; dates with unclear numerals, uncertain proper names, and faded runs SKIPPED to keep gold clean). Semi-diplomatic: scribe's abbreviations kept in dotted form (D.ni, M.re, S.r, R.mo, terr.o, Dioc., Xbre) to match glyphs; words written in full kept full. 2MP phone photos => lower ceiling than Turate.",
+  "_register": {"p202": "x-4-1574", "p223": "x-4-1574", "p242": "x-4-1574",
+                "p188": "x-4-1574", "p207": "x-4-1574",
+                "p049": "x-18-1570-79", "p067": "x-18-1570-79", "p086": "x-18-1570-79", "p102": "x-18-1570-79",
+                "p128": "x-20-1583", "p134": "x-20-1583", "p141": "x-20-1583", "p147": "x-20-1583",
+                "p122": "x-20-1583", "p129": "x-20-1583", "p135": "x-20-1583", "p150": "x-20-1583", "p196": "x-4-1574",
+                "p278": "x-44-1583", "p291": "x-44-1583", "p304": "x-44-1583", "p315": "x-44-1583"},
+
+  "p202": {
+    "L002": "In nomine D.ni Amen",
+    "L007": "fui promosso all'ordine chiericale l'anno della natività del S.re",
+    "L010": "Crivello come appare nella mia bolla",
+    "L013": "fui anche promosso all'ordine del suddiaconato del suddetto M.re",
+    "L016": "giorno di sabbato decimo ottavo del mese di Xbre fui promosso essendo",
+    "L017": "constituto nell'ordine del suddiaconato; all'ordine del Diaconato",
+    "L022": "del marzo, giorno quinto fui promosso, essendo constituto nell'ordine",
+    "L024": "rogati nella chiesa di S. Eustorgio in Milano presenti"
+  },
+  "p223": {
+    "L001": "Notta delle decime, et luoghi sopra i quali si coglie la",
+    "L015": "nel terr.o di Gerenzano",
+    "L020": "et l'altro pezzo di decima è sito"
+  },
+  "p242": {
+    "L010": "Di andar a S.ta Maria de S. Rocho",
+    "L012": "Di andar uno giorno ogni anno",
+    "L013": "processionalmente intorno della",
+    "L014": "Campagna de Gerenzano con il"
+  },
+  "p188": {
+    "L003": "coherenzia de due parte Strada",
+    "L007": "heredi del s. Giac.o Fagnano",
+    "L010": "coherenzia de due p.te Strada d'altra p.te",
+    "L017": "coherentia d'una p.te Strada",
+    "L037": "de due parte heredi di m. franc.o",
+    "L038": "Crivello dall'altra"
+  },
+  "p207": {
+    "L007": "sua bolla di sua mano scritta"
+  },
+
+  "p086": {
+    "L007": "Catalina sua moglie d'età d'anni",
+    "L008": "franceschina sua figlia d'anni",
+    "L009": "Madalena sua figlia d'anni",
+    "L011": "Gio. Pietro figlio della sudetta d'anni",
+    "L012": "Giovanina sua moglie d'anni",
+    "L013": "Bernardino suo figlio d'età di mesi",
+    "L016": "Nella istessa casa habitano",
+    "L018": "Maria sua moglie d'età d'anni",
+    "L019": "Catalina sua figlia d'età d'anni",
+    "L020": "Angela sua figlia d'età d'anni",
+    "L021": "Gioseppo suo Cugino d'età d'anni",
+    "L023": "Giovanina sua sorella d'età d'anni",
+    "L038": "Madalena sua moglie d'età d'anni"
+  },
+  "p102": {
+    "L001": "Nella istessa casa ni habita",
+    "L013": "Gio. Maria sua figlia d'età d'anni",
+    "L019": "francesco figlio de Gio. Maria d'età d'anni",
+    "L020": "Nella istessa casa ni habita",
+    "L029": "Nella istessa casa vi habita",
+    "L035": "Giacomo suo figlio d'età d'anni",
+    "L037": "Nella istessa casa vi habita",
+    "L040": "franceschina sua figlia"
+  },
+
+  "p134": {
+    "L001": "pecia una terrae perticarum novem",
+    "L007": "Item annualium missarum quatuor",
+    "L010": "pellanus S. Iacobi Gerensadii pro cuiusque cele-",
+    "L011": "bratione solvere tenetur singulis annis"
+  },
+  "p128": {
+    "L006": "et modiis duobus D. Gibello debet.",
+    "L014": "Incipiendo ab anno 1576.",
+    "L016": "ipse laborabat in Gerensade pro anno"
+  },
+  "p141": {
+    "L020": "de iure spectare à die qua ex iis fructibus"
+  },
+  "p122": {
+    "L004": "cultui decoris et dignitati respondeat, compa-",
+    "L005": "retur pro sanctissimo Sacramento super altare per-",
+    "L016": "Cappella Baptisterij quamprimum officietur",
+    "L017": "et in eius parte occidentali aperiatur",
+    "L018": "fenestra à qua sacerdos baptizans lumen"
+  },
+  "p129": {
+    "L010": "Suprascripti omnes debitores qui",
+    "L011": "mensem Septembris presentis anni",
+    "L013": "depositario deputando, sub poena interdic-",
+    "L015": "ti ab ingressu ecclesiae, et propterea Mag.cus",
+    "L016": "depositarius contra eos agat ad solutionem",
+    "L018": "qui summarie executionem contra eos",
+    "L019": "bona committat et interim sequestratio"
+  },
+  "p135": {
+    "L013": "Item navis meridionalis, ac septentrionalis",
+    "L014": "decenter laqueata concinnatione muniatur."
+  },
+  "p150": {
+    "L007": "una terrae campi nuncupati maceria",
+    "L010": "Maceria campestris ecclesiae sancti Ambrosij",
+    "L016": "ad presentem decretum anni 1583. D.nus",
+    "L018": "consumendi in mensuras domus existenti"
+  },
+  "p196": {
+    "L011": "Et più possia una terra giacente nel terr. sop.a ove si",
+    "L021": "Et più possia una terra giacente nel sod. terr. ove si dici",
+    "L030": "coherenzia de due p.te",
+    "L034": "Et più possia un pezzo di boscho nel terr. di G. ove si",
+    "L037": "coherenzia in ogni parte il s. Giac.o"
+  },
+
+  "p278": {
+    "L017": "cui coheret ab una parte D.",
+    "L028": "Pecia alia campi, ubi dicitur al campo",
+    "L031": "heredum D. Jacobi Fagnani",
+    "L036": "Pecia alia campi, ubi dicitur"
+  },
+  "p315": {
+    "L014": "Paschatis Resurrectionis, solemnitatis",
+    "L021": "tenetur quot annis accedere processionaliter"
+  },
+  "p304": {
+    "L017": "absque aliquo onere suo.",
+    "L019": "Monetis habitatores Carbonati solvunt",
+    "L022": "absque aliquo onere suo.",
+    "L026": "undecim absque aliquo onere suo."
+  },
+  "p291": {
+    "L009": "sed totum herbidum nec mundum",
+    "L012": "eminenti cum ecclesia est constitutum",
+    "L013": "et a duabus partibus clauditur",
+    "L018": "Campanile turris est in fundo",
+    "L022": "in quo campanili sunt duae"
+  }
+}

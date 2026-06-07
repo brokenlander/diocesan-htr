@@ -16,6 +16,7 @@ Workflow: gold_prep.py -> correct (edit correct.tsv, or review.html + export)
 Usage: python scripts/gold_prep.py p001 p002 ...
 """
 import sys, os, glob, dataclasses, html
+import paths
 from PIL import Image, ImageFile
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 from kraken import blla, rpred, serialization
@@ -86,42 +87,39 @@ def main(pids):
     mc = models.load_any(mccatmus_path(), device="cpu")
     tr = models.load_any(TRIDIS, device="cpu")
     for pid in pids:
-        src = f"processed/cropped/{pid}.jpg"
+        src = paths.cropped(pid)
         if not os.path.exists(src):
             print(f"{pid}: no cropped image, skipping"); continue
-        im = Image.open(src).convert("RGB")
-        seg = blla.segment(im, model=seg_model, device="cpu")
-        mc_preds = list(rpred.rpred(mc, im, seg))
-        tr_preds = list(rpred.rpred(tr, im, seg))
+        try:
+            im = Image.open(src).convert("RGB")
+            seg = blla.segment(im, model=seg_model, device="cpu")
+            mc_preds = list(rpred.rpred(mc, im, seg))
+            tr_preds = list(rpred.rpred(tr, im, seg))
 
-        outdir = f"gold/{pid}"; linedir = f"{outdir}/lines"
-        os.makedirs(linedir, exist_ok=True)
+            outdir = paths.gold(pid); linedir = f"{outdir}/lines"
+            os.makedirs(linedir, exist_ok=True)
+            results = dataclasses.replace(seg, lines=mc_preds, imagename=f"{pid}.jpg")
+            alto = serialization.serialize(results=results, image_size=im.size, template="alto")
+            with open(f"{outdir}/{pid}.alto.xml", "w", encoding="utf-8") as f:
+                f.write(alto)
 
-        # ALTO skeleton (line geometry + McCATMuS text)
-        results = dataclasses.replace(seg, lines=mc_preds, imagename=f"{pid}.jpg")
-        alto = serialization.serialize(results=results, image_size=im.size, template="alto")
-        with open(f"{outdir}/{pid}.alto.xml", "w", encoding="utf-8") as f:
-            f.write(alto)
-
-        # per-line dewarped image strips + correction rows
-        line_imgs = [li for li, _ in segmentation.extract_polygons(im, seg)]
-        rows = []
-        for i, lineimg in enumerate(line_imgs):
-            lid = f"L{i+1:03d}"
-            lineimg.convert("RGB").save(f"{linedir}/{lid}.png")
-            mctxt = mc_preds[i].prediction if i < len(mc_preds) else ""
-            trtxt = tr_preds[i].prediction if i < len(tr_preds) else ""
-            rows.append((lid, mctxt, trtxt))
-
-        with open(f"{outdir}/correct.tsv", "w", encoding="utf-8") as f:
-            f.write("line\tmccatmus\ttridis\ttranskribus\tcorrect\n")
-            for lid, mctxt, trtxt in rows:
-                clean = lambda s: (s or "").replace("\t", " ")
-                f.write(f"{lid}\t{clean(mctxt)}\t{clean(trtxt)}\t\t{clean(mctxt)}\n")
-
-        write_html(outdir, pid, rows)
-        print(f"{pid}: {len(rows)} lines -> {outdir}/ "
-              f"(review.html, correct.tsv, {pid}.alto.xml, lines/)")
+            line_imgs = [li for li, _ in segmentation.extract_polygons(im, seg)]
+            rows = []
+            for i, lineimg in enumerate(line_imgs):
+                lid = f"L{i+1:03d}"
+                lineimg.convert("RGB").save(f"{linedir}/{lid}.png")
+                mctxt = mc_preds[i].prediction if i < len(mc_preds) else ""
+                trtxt = tr_preds[i].prediction if i < len(tr_preds) else ""
+                rows.append((lid, mctxt, trtxt))
+            with open(f"{outdir}/correct.tsv", "w", encoding="utf-8") as f:
+                f.write("line\tmccatmus\ttridis\ttranskribus\tcorrect\n")
+                for lid, mctxt, trtxt in rows:
+                    clean = lambda s: (s or "").replace("\t", " ")
+                    f.write(f"{lid}\t{clean(mctxt)}\t{clean(trtxt)}\t\t{clean(mctxt)}\n")
+            write_html(outdir, pid, rows)
+            print(f"{pid}: {len(rows)} lines -> {outdir}/", flush=True)
+        except Exception as e:
+            print(f"{pid}: SKIP ({type(e).__name__}: {str(e)[:60]})", flush=True); continue
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:

@@ -1,0 +1,30 @@
+{
+  "_comment": "Pinned config for the v2 HTR pipeline (pipeline/gemini_htr.py). ONE model only: Gemini 3.x Pro. NEVER 2.5, NEVER Flash. Bump pipeline_version to force a clean re-run of all pages.",
+  "model": "gemini-3.1-pro-preview",
+  "key_file": "~/.config/gemini.key",
+  "_arch": "v2.1: ONE Gemini read/page (gemini-3.1-pro, thinking=low), quota ~250/day = ~250 pages/day. CLAUDE (in-session, free) reconciles each candidate vs the IMAGE -> reconciled/<pid>.txt. Local engines (McCATMuS/TRIDIS) are BENCHED (see kraken block). --hard bumps n_samples for a genuinely awful page.",
+  "reconciler": "claude",
+  "n_samples": 1,
+  "n_samples_hard": 2,
+  "sample_temperature": 0.2,
+  "reconcile_temperature": 0.0,
+  "thinking_level": "low",
+  "max_output_tokens": 16384,
+  "agreement_review_threshold": 0.92,
+  "request_timeout_s": 300,
+  "retries": 6,
+  "pace_seconds": 6,
+  "rate_limit_max_wait_s": 300,
+  "prompt_version": "v2.0",
+  "pipeline_version": "v2.0",
+  "context_dir": "registers",
+  "kraken": {
+    "_comment": "BENCHED — NOT part of the pipeline. Tested 2026-06 on the 2MP cursive backlog: ~40-60% CER, names mangled ('Alessandro Franco' -> McCATMuS 'A'estandre bra ner', TRIDIS 'Elessa noro traneo'); context-blind, errors correlate with Gemini. Only conceivable use = 12MP Turate scans (already done). The keys below are INERT until kraken_vote.py/benchmark.py are implemented. enabled stays false.",
+    "enabled": false,
+    "name_vote_only": true,
+    "proven": false,
+    "benchmark_result": "FAILED_2MP_2026-06",
+    "mccatmus_glob": "~/.local/share/htrmopo/**/McCATMuS*.mlmodel",
+    "tridis_model": "models/Tridis_v2_Medieval_EarlyModern.mlmodel"
+  }
+}
