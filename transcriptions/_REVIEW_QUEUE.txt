@@ -338,3 +338,170 @@ x-5 p346: chapel decrees — main Capella (paint SS.Pietro e Paolo MARTYRDOM; 2 
 x-5 p348: chapel decrees — annual mass-obligations (12 masses, 30 soldi/priest; Sundays/feasts + 1 ferial/week per Apostolic reduction). "Haec Capella est de iure Patronatus D. Francisci CRIVELLI[Gemini]/Gibelli[v1] de loco RESCALDINA, Plebis BUSTO ARSIZIO" — juspatronato chapel (lean Crivelli: cleaner Gemini phrasing + Crivelli juspatronato throughout corpus; cf Francesco Crivelli p142, Rescaldina p192) — VERIFY Crivelli/Gibelli. Then Capella S. CATERINA (privileged altar, 7 [...]). Gemini-based.
 x-5 p350: chapel/sacristy + records decrees — archive for church scripturae et iura; walnut armarium for calici/sacculi/corporali; "De cultu dierum festorum": observe 32nd DIOCESAN SYNOD decree (esp. public processions); make a 300-folio PARISH REGISTER (baptisms/marriages/confirmations/deaths + pious customs + votive feast days). *** Gemini-3.1 FAR cleaner than v1 Claude-reconcile (v1 had "regenerantur"/"intra mentem"/"Reforma" errors) — adopted Gemini. ***
 x-5 p353: *** 1662 PROCURATION (notarial instrument) *** — In Nomine Domini, 9 Feb 1662 (indiz.15), Pope ALEXANDER VII yr 8. Provost JOSEPH TRITIUS (Giuseppe Trizio), S.Theol.Doctor, prepositus of SS.Pietro e Paolo Gerenzano, Pieve d'Appiano, dioc. Milan, filius q. Bartholomei, appoints proctor FRANCESCO SENA, J.U.D., Canonico Ordinario et Visitatore della Pieve d'Appiano, re: the SIX TITHES (sex decimae) imposed by Pope Alexander VII on the Clero della Pieve d'Appiano (per Bulls). *** Gemini-3.1 EXCELLENT & near-complete (v1 Claude-reconcile was heavily [...]) — adopted Gemini. *** VERIFY proper names (Joseph Tritius=prevosto 1662; Francesco Sena=cf "A.Seneca pro vicario" p171?).
+
+========================================================================
+# CAPTURE 2 — Archivio Parrocchiale di Gerenzano (273 pages, p360-p632)
+# Contests merged from the new-batch working queue. 2026-06-24.
+========================================================================
+--- NEW BATCH (Archivio Parrocchiale 2019, fondi 06/07/08/11/12) ---
+[06-06 p371/p378] Testator surname CONTEST: "Bossi" (Boson[us]/Bosis, pixel-faithful, adopted)
+   vs "Fagnani/Faruffini" (Gemini+blind-agent over-correction to dominant family). Same man:
+   1629 testament (p371-377, notary Gio.Batta Visconti of Saronno) + codicil (p378-379), both
+   the 40-lire / 52 masses / S. Rosario altar / Prevosto Tommaso Serafino bequest. Needs human eyes.
+[06-05 p364] Prevosto 1626 surname "Bricmio[?]" (Ant. Maria) — unusual; verify (Brivio? Brizio?).
+[06-05 p367] Testator of 1629 Cislago legato: "Morigia" (Gemini) vs "Moneta" (blind vote) — both
+   are local families; also "now residing in Busto Arsizio[?]". 8-priest annuale at S. Caterina Cislago.
+   First saint-altar "S. Defendente[?]" vs "S. Stefano[?]". Verify.
+[06-05 p364] add: prevosto surname also read "Briema" by blind vote (vs "Bricmio"); → Brivio/Brizio?
+[06-05 p368] Field boundary "heredes q. d. Io.Petri Quatrij" (Quadrio) — forename Io.Petri vs "Pompei".
+[06-07] 1629 testament of Domenico Cattaneo detto Darbono (=the "Dominici Catorne dardini" Bossi owed
+   75L in 06-06 p374). Contests: p383 daughters Martha/Vittoria surname "de Carcano" vs "de Ferrari di
+   Carbonate"; p384 heir forenames Carolum vs Christianum (+ 3rd son); p385 procurators "de Franchis"
+   (adopted, = wife's family) vs "de Farnesiis" (Gemini). Notary Gio.Batta Visconti q. Filippo, of Saronno.
+[06-138] KEYSTONE: 1527 foundation of Cappella S. Stefano in S. Pietro di Gerenzano by Giovanni Crivelli
+   (de Cribellis) q. Stefano, drawn from notary Gio.Antonio Crivelli's register; Crivelli juspatronato +
+   daily mass (origin of the S.Stefano chapel & the Crivelli-vs-Gibelli juspatronato in the X-registers).
+   Contests for paleographer: p388 notarial day decimo/septimo Oct 1527; neighbour forename Maino/Maffeo
+   de Cribellis; p389 parcel-4 "Donati de Cribellis" vs "de Castilliono", "Maphij" vs "Magistri" Fagnani;
+   parcel-6 toponym Brugiano vs Bregnano, size 2 vs 3 pertiche. Toponyms: campo magno/mascaria, baranola/
+   braiola, Casare, campo del dosso, dossa/boschetta. Confirm pertiche on parcels 1(46)/2(14)/3(7)/4(28+36)/5(7).
+[06-143 p406] LEGATEE NAME CONTEST (the classic Gibelli/Crivelli confusion): 1527 legato quoted as
+   "Item lego Domino Jacobo de GIBELLIS, capellano in eccl. S. Petri Gerenzani, modia duo misture..."
+   — Gemini read "Gibellis", blind Opus read "de CRIBELLIS". Distinct families; needs human eyes.
+[06-143 p397/p398] candidates TRUNCATED mid-page (recovered via blind pass): p397 + Federico Borromeo
+   titulature & addressee "Bartolomeo Caniani prevosto Borgo Appiano"; p398 + the S. Caterina weekly-mass
+   legato passage. Chaplain Italian-supplica surname Franco vs Bianchi vs Preneno (Latin consistently Franco).
+[06-143] minor: p399 visit-vote date 26-Mar vs 20-Mar-1612; p400 appraiser Corrone vs Borroni;
+   p407 wheat price 9 vs 19 lire/moggio; p402 Vic.Gen. signature Perbenedictus/Plebanus/Bossius.
+[06-143 p397] addressee of the Vicar-General's letter: "Bartholomeo COMITIO" (fresh Gemini) / "Comaro"
+   (blind) / but "Bartolomeo CANIANI prevosto e vic.foraneo d'Appiano" at p411 — same office, surname contested.
+   [p397/p398 re-read fresh by Gemini at 65k after blind pass exposed truncation; both now complete.]
+[06-143 p411] addressee surname RESOLVED toward "Caniani": both reads of p411 (his own signature)
+   agree "Bartolomeo CANIANI, prevosto e vic.foraneo d'Appiano" → p397's "Comitio/Comaro" is the misread.
+[06-143] Pass2 DONE (p396-417). Other small flags: p412 Vic.Gen. "[?] Archangelus"; p414 prevosto abbrev
+   "M. Hyo. D.D." (should be Tricemio, not Hieronimo); p417 "sub refectione" vs "sub foro ecclesiarum".
+[06-145] 1628 S.Stefano inventory. Minor contests: p421 border "Hipolito Visconti/Viscosio/Visconcio";
+   damasco "paiado" vs "pavonazzo"; p422 recurring B/R: tenant & Malnino-border "Bosso/Bossi" vs "Rosso";
+   first tenant pertiche 50(adopted, =Maraza field)/10. Titular signs "Io. Alessandro Franco". Total income
+   29 moggia 2 stara, of which 2 moggia mistura owed to the Comunità (the poor-distribution of the 1527 legato).
+[06-184 = 1754 "Status Cappellaniæ S.Stephani", a master historical synopsis] CROSS-DOC DATE CONTEST on the
+   keystone foundation: this 1754 summary dates Giovanni Crivelli's testament "Anno 1547 ... de 7 8bris"
+   (7 Oct 1547; both reads agree on 1547), whereas 06-138 (the actual act) + its cover say 1527, October.
+   1527 vs 1547 needs a human call. NB the DAY "7 October" here corroborates 06-138's blind "septimo Octobris"
+   (vs Gemini's "decimo"). Pertiche given as 140 (06-184) ~ 120 (later, same doc) ~ 104 (sum in 06-138).
+   Confirms whole arc: 1583 Borromeo visit, 1600 partial obs., 1611 weekly mass+house (sig.C=06-143),
+   1640 Francesco Crivelli 12-mass legato (sig.D), 1716 suspension (Promotor Verderio), titular Gio.Batta Duzio.
+[06-265] 1643 relics dossier. Name contests for paleographer: the Milan delegate-canon = "Gabriel
+   Picinnio"(p430)/"Pionio"(p431)/"Cionnio"(p439) — one man, surname unresolved. The Jesuit donor =
+   "Caravita"(adopted; blind+Rome oratory)/"Caranita"(Gemini)/"Taravisa"(Gemini p431). p432 donation-clause
+   martyr "Augustinae"? vs patent-list "Aquilae". First relic "Corpus S. Abae"? Vicar Gen. "Blasio Conturbio"?
+   Cardinal who certifies = Antonio Barberini (S.Onofrio), Card.Vicar of Rome. Notaries: Leonardo de Leonardis
+   (Rome), Aloysius Antonius Buttatus (Milan). [p432+p435 re-Gemini'd full after blind exposed truncation.]
+[06-266] 1649 relics donation to Gerenzano (prevosto Bernardo Soldano). Martyr-name variants vs 06-265
+   (here: Sabini, Orentii, Casimiri, Aterimi?, Archadii, Lucidi, Alexandri, Felicis, Bonifacii, Augustini,
+   Christinae, Lucillae, Constantii, Gentiani, Celestini, Desiderii — 16). Recurring contested names:
+   canon "Gabriel Picinnio?" (cf 06-265), notary "Buttatus/Batterius/Catterius", witness "Matteo Tureto/Eureto"
+   (06-265 "of Gerenzano" vs here "titular S.Giov.Evang., Pieve di Corbetta"). VG confirmed "Blasio Conturbio".
+[06-270] 1717 True-Cross relic recognition. p451 = SEVERELY FADED, near-illegible (Gemini+blind both blank;
+   only "Anno"+date visible) — needs original/re-shot scan. Place of the recipient parroco contested:
+   "loci Daxiani / de Agrani / Dairago?" (Joseph Cantiano, parroco) — Gerenzano connection unclear.
+   Patent issuer "Valeriano de Chin(r?ich)ellis, Bp Terentino" (cf 06-265 glossary). Recog. Gio.Carlo Abba.
+[06-43] 1826-70 Legati Caccia/Cattaneo/Visconti dossier. First legato standardized to "Caccia" (prevalent;
+   cf 1626 Giulio Cesare Caccia 06-05) — clerks also wrote Carcia/Carcano/Caimi. The estate burdened =
+   "beni Bendoni" (Berra family acquired). Amount note: total cartella £66 = Garavaglia 4.50 + Prebenda 26.50
+   + Legati 35 (an earlier draft p454 had £55/legati 25). Istromento dates 1632 (Visconti) read 17 Xbre vs
+   12 8bre. Prevosti: Angelo Bossi, Canevesi. NB only schedule pages got the blind double-check.
+[07-02] 1727 emphyteusis (TWO copies p488-493 / p494-500) of the brughiera "Baldinona/Badinona/Bandinona"
+   (=later "Bosco dei Morti") of the Cassa dei Morti of Gerenzano, to Giovanni Maria de Franchis (sons Pietro
+   Paolo, Giovanni, Gio.Battista); prior Gaspare Castiglioni; prevosto Giuseppe de Magri; notary Gio.Pietro
+   Piucca/Piuccia of Tradate. Fitto 20 soldi/pertica = 20 lire imp./S.Martino. Borders incl. Marchese Giacomo
+   FAGNANI, the Prepositura, Don Natale Visconti. COVER dates it 1721 but instrument = 1727. Later notes: 1823
+   livello to Pietro Gio.M. Zuanelli/Zanelli (now chestnut wood); 1876 Lazzaretto £30 cert. to fabbriceria.
+[07-03] Lazzaretto dei Morti wood (plague cemetery), Gerenzano: 1833-35 boundary relation by Ing. Felice
+   Gola (prevosto Don Luigi Garavaglia; fabbriceri Possenti+Givola; neighbour Angelo Torri, mappa 502;
+   Fagnani 493); 1847 circolare + Fabbriceria reply (bosco 8 pert. rovere/castanile); 1864-76 accounts.
+   1876 fabbricere surnames contested: Sarra/Porro Giuseppe, Banzini/Brunzini Angelo. (p510 was truncated,
+   recovered via blind: full 1847 letter, bosco sold by auction for masses, signed Zaffaroni Carlo.)
+[07-154] 1823-24 Contenzioso: Marchese Federico Fagnani vs Angelo TORRI, £111.29 for taglio di bosco
+   (10 pert. @ £14.10/pert.), I.R.Pretura Saronno (Pretore Gian Lampugnani, att. Della Porta); arbiter/
+   compromissario = prevosto Don Luigi GARAVAGLIA; co-party Carlo Rimoldi (ex-fattore Casa Fagnani, sold the
+   1816 wood); proc. dottore Luigi Borsani (Uboldo). Sentenza 14/24 8bre 1823 (N.2031, contumaciale N.31);
+   compromesso 14 Gen 1824, revived 15 Lug 1824. ** MAJOR NAME CONTEST: the bundled 1814-16 FAMILY-DIVISION
+   papers (prevosto Garavaglia arbiter, 3 May 1816) read the surname as "DOMI" (blind, clear capital D, p535)
+   / "Boni" (Gemini) / "Torri" (court). Likely the same Angelo (Fagnani wood-debt £157.10 links them), but
+   confirm whether the Domi family division & the Torri lawsuit are one family or two bundled matters.
+   Caronno branch: Spada sisters (Teresa, Rosa) m. the brothers; Sac. Giuseppe Gabrielli; the "fantino"
+   (infirm brother) provisions. NB: supporting account/family leaves were single-pass image-grounded.
+
+## 08-29 (Fondo VIII, Serie 1, Fasc. 29 — 1848 I.R. Accademia di Belle Arti, restauro di 2 quadri)
+- Painter's first name: cover/Servi letter (p588 body, p589) = "Gio." (Giovanni) Rapuzzi;
+  but the addressee line on p588 reads "Al Sig.r Gius.e Rapuzzi" — Gius[epp]e vs Gio[vanni].
+  Same man (the restorer); resolve which Christian name. Flagged.
+- Art-historical content (clear, for the record): two paintings conceded by the Government to
+  Gerenzano church from those held at the Accademia: (1) tavola, "creduto del Vivarini"
+  (p589: "di Bartolomeo Vivarini") = Christ dead with Madonna, S. Girolamo, two angels;
+  (2) tela, "del Subleyras" = S. Romualdo with friars. Restored by Rapuzzi; report by
+  Dott. Giovanni Servi (Cons. Ord. e Prof. Aggiunto, Scuola Elementi di Figura);
+  Accademia president sign-off "G. Bellotti", Milano 11 Gen. 1848.
+- p589 last clause "ridotto allo stato poco disfacente[?]" — wording uncertain; verify.
+
+## 08-37 (Fondo VIII, Serie 1, Fasc. 37 — Organo nuovo della Prepositurale di Gerenzano, vertenza 1862-1866)
+CONTENT: complete dossier on the new organ. (1) Prevosto's first-person "Narrazione storico-
+co[s]cienziosa" of the dispute, in two drafts (p591-596) — entered office July 1865, fought the
+builder's agent De-Simoni over price (£3000 Milanesi vs his 6000 Italiane), the 15 Nov 1865
+contract signed under duress, the 28 Nov blow-up ("birichino"), the Fabbriceria's 29-30 Nov
+annulment. (2) Letters from De-Simoni's Saronno lawyer Bonalumi (p597, p613) and from the
+Fabbriceria's Milan lawyer Avv. Gaggia (p600-609, p611-612). (3) Two organ specs: a 34-stop
+prose perizia (p606) and a two-column stop-list "Organo da costruirsi" (p610). (4) Recommendation
+letters & an earlier 1862 cancellation (p615 Canegrate 1863; p616 = 29 Giu 1862 cancellation of a
+15 Giu 1862 contract). (5) Builder Fortunato Ossola letters, Gropello d'Oltrona(?) (p598-599).
+
+NAME / DATE CONTESTS for paleographer:
+- PROVOST (keystone): p596 signature "Gaetano Carne____ Proposto Parroco" — read Carnevali[?]
+  (blind) vs Carnelli (Gemini); image glyph ~"Carneve_i". RESOLVE — this is the 1865 provost of
+  Gerenzano, not previously in the glossary.
+- Fabbricieri (p596 signatures, left edge cut): "Tori[?]/Lori[?] Giuseppe"; "Zaffaroni Carlo
+  Maria" (cf. p594 "Zaffaroni Carlo"); "Porro Giuseppe" (confirmed, cf. p611). First surname unsure.
+- LAWYER of the Fabbriceria: embossed stamp "AVV. PIETRO GA??IA — C. P. Romana 16 — Milano",
+  initial clearly G. Standardized as GAGGIA across p600/602/605/607/608/609/611/612; Gemini's
+  "Caccia"(p611)/"Caimi"(p612) are misreads of the same flourish. Signatures vary: "P. Gaggia"
+  (p602), "Avv. Gaggia" (p605/609), "Ant.o Gaggia" (p608). Confirm Gaggia vs Gaccia/Caccia, and
+  whether Pietro (stamp) and Antonio (sig) are two people.
+- De-Simoni's lawyer (Saronno): Bonalumi (p597 "A. Bonalumi", p602 "Cav. Bonalumi"); p614
+  addressee read "Livio Benelami" by Gemini -> reconciled to "[Livio?] Bonalumi" — verify given name.
+- p614 dateline: month glyph ambiguous; coherent reading = "9 Dicembre 1865" (body cites the 6 Dec
+  letter "ricevuta il 7 sera"). Gemini read "9 Ottobre"; blind "9 Novembre". RESOLVE month.
+- p617 heading/body word "Attivessa"(Gemini) vs "Fabbriceria"(blind) — odd word, layout mirrors
+  p614 "Fabbriceria della Prepositurale di Gerenzano"; and "Sig. Dott. Limoni/De-Cimoni" = De-Simoni.
+- p598/599 (twin copies): builder "Fortunato Ossola", place "Gropello/Grapello di Oltrona[?]",
+  ref. year 1854(p598)/1858(p599) — verify the year and the toponym.
+- p615 firmatario "P. Gio. Bazzini[?]" (alt. Bossi), Canegrate 1863.
+- Title word p591/592 "storico-co[s]cienziosa[?]" — uncertain.
+
+## 08-43 (Fondo VIII, Fasc. 43 — Inventario generale 1892 della Chiesa SS. Pietro e Paolo)
+- Clean print-era hand; lists in two columns (p620, p622 de-interleaved from the image; p621/p623/p624
+  read sequentially). Many quantities corrected in RED/BLUE ink — transcribed as [corr. N]; verify the
+  red corrections page by page if exact counts matter.
+- p624: "Quadri ricevuti da Brera N.6" — note the Brera-conceded paintings (cf. 08-29 Accademia di
+  Belle Arti paintings of 1848). Possible same nucleus.
+
+## 11-04 (Fondo XI, Fasc. 4 — 1632 supplica + rescritto: acquedotto nel giardino prepositurale)
+- Petitioner: "frà Ambrosio Fagnani, Cavagliere Gierosolimitano" (Knight of Malta) — Fagnani family.
+- Rescript date "5 febbraio 1632" (Gemini) — YEAR GLYPH DUBIOUS (blind read "16[?]0"). RESOLVE.
+- Rescript: "D. Prov[iso]r foraneus pleb. Appiani visitet..." (Gemini misread "prancus" = foraneus).
+- Foot signature "Augustinus Baffi[?] pro Cancellario" — uncertain; left-margin notarial flourish illegible.
+
+## 11-05 (Fondo XI, Fasc. 5 — supplica + mandato 1616: permuta di terreni)
+- Lay party: "Cav. Ambrosio Fagnani" (same Knight of Malta as 11-04).
+- Field exchanged: "il Vignolo del GUASTO[?]" (Gemini) vs "del QUARTO" (blind) — RESOLVE; ~3 pertiche.
+- Mandate date "15 xbris 1616" (Gemini) — last digits faint; Vic. Gen. signs "Jo. Bap.ta" + flourish
+  (surname unresolved); foot "Pro M.to R.do Can.co Anguissola". RESOLVE Vic.Gen. surname & year.
+- NB: two distinct early-17th-c. Fagnani petitions (1616 permuta + 1632 aqueduct) — adds the Knight of
+  Malta Fra' Ambrosio Fagnani to the prosopography; not previously dated in the glossary.
+
+## 12-10 (Fondo XII, HISTORIA, Fasc. 10 — lettera del Prevosto sulle strade comunali)
+- Provost/author: "Luigi GARAVAGLIA, Prevosto Curato di Gerenzano" (signature p632, clear) — 19th-c.
+  Another named provost (cf. Gaetano Carnevali[?] of 08-37, provost from July 1865); Garavaglia is
+  likely earlier (pre-1865) — date the letter (no year on the pages; internal "verso il finire di Maggio").
+- Mentions the "Bozzente vecchio" stream, drowning of a girl ("annegata una sgraziata fanciulletta",
+  2nd such case under his cure). Undated — needs dating from context/hand.

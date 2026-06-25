@@ -17,6 +17,7 @@ import numpy as np
 from scipy.ndimage import uniform_filter, uniform_filter1d
 from PIL import Image, ImageFile, ImageOps
 ImageFile.LOAD_TRUNCATED_IMAGES = True
+import paths  # slug(register) -> register-scoped crop output dir
 
 MANIFEST = "dataset/manifest.csv"
 OUTDIR = "processed/cropped"
@@ -142,26 +143,32 @@ def main(subset, preview):
         photo_id = r["page_id"]               # manifest page_id == one source photo
         boxes = detect_page_boxes(r["orig_path"])
         sides = [""] if len(boxes) == 1 else ["a", "b"]
+        sl = paths.slug(r["register"])                       # register-scoped output dir
+        outdir = os.path.join(OUTDIR, sl)
+        os.makedirs(outdir, exist_ok=True)
         with load_oriented(r["orig_path"]) as im:
             for (box, ratio), side in zip(boxes, sides):
                 pid = photo_id + side
                 crop = im.crop(box)
-                crop.save(os.path.join(OUTDIR, pid + ".jpg"), quality=92)
+                crop.save(os.path.join(outdir, pid + ".jpg"), quality=92)
                 if preview:
                     t = crop.copy(); t.thumbnail((800, 800))
-                    t.save(os.path.join(OUTDIR, pid + "_preview.jpg"))
+                    t.save(os.path.join(outdir, pid + "_preview.jpg"))
                 pages.append({"page_id": pid, "photo_id": photo_id, "side": side or "single",
-                              "register": r["register"], "cropped": f"{OUTDIR}/{pid}.jpg",
+                              "register": r["register"], "cropped": f"{OUTDIR}/{sl}/{pid}.jpg",
                               "src": r["orig_path"], "kept_pct": round(ratio*100, 1)})
-                print(f"{pid:7s} kept {ratio*100:5.1f}%  {r['register']}")
-    # write pages.csv only on full runs (subset runs would clobber it)
-    if not subset:
-        with open(PAGES_CSV, "w", newline="") as f:
-            w = csv.DictWriter(f, fieldnames=list(pages[0].keys()))
-            w.writeheader(); w.writerows(pages)
-        print(f"\nwrote {PAGES_CSV}: {len(pages)} pages from {len(rows)} photos")
-    else:
-        print(f"\n{len(pages)} page(s) from {len(rows)} photo(s) (subset; pages.csv not rewritten)")
+                print(f"{pid:7s} kept {ratio*100:5.1f}%  {sl}")
+    # merge into pages.csv additively: keep rows for photos NOT in this run, (re)write those that are.
+    # makes subset runs safe — they no longer clobber the rest of the page index.
+    fieldnames = list(pages[0].keys())
+    prior = list(csv.DictReader(open(PAGES_CSV))) if os.path.exists(PAGES_CSV) else []
+    done = {p["photo_id"] for p in pages}
+    merged = [r for r in prior if r.get("photo_id") not in done] + pages
+    merged.sort(key=lambda r: r["page_id"])
+    with open(PAGES_CSV, "w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=fieldnames)
+        w.writeheader(); w.writerows(merged)
+    print(f"\n{PAGES_CSV}: +{len(pages)} page(s) from {len(rows)} photo(s) this run; {len(merged)} total")
 
 if __name__ == "__main__":
     args = sys.argv[1:]

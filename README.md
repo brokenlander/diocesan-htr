@@ -1,15 +1,17 @@
 # Archivio Diocesano — HTR & Translation
 
-> Transcribing **and** translating a photographed early-modern diocesan archive — Latin and
-> Lombard-Italian parish registers and episcopal/visitation decrees, **c. 1566–1691**, from the
-> **Pieve d'Appiano** (parish of **Gerenzano**, in the Como/Milan borderland) — by reading each
-> page with a frontier vision-LLM, reconciling that read against the original image, and then
-> translating the result into modern Italian.
+> Transcribing **and** translating a photographed diocesan & parish archive — Latin and
+> Lombard-Italian registers, decrees, testaments, legacies and administrative records, **c. 1438–1892**,
+> centred on the **Pieve d'Appiano** (parish of **Gerenzano**, in the Como/Milan borderland) — by
+> reading each page with a frontier vision-LLM, reconciling that read against the original image, and
+> then translating the result into modern Italian.
 
-**Status: complete.** Every one of the **383 pages** now has a semi-diplomatic transcription in
+**Status: complete.** All **656 pages** now have a semi-diplomatic transcription in
 [`transcriptions/`](transcriptions/) and a modern-Italian translation in
-[`translations/`](translations/). The two trees mirror each other file-for-file: the same
-`<register>/<page>.txt` path gives you the original text on one side and its Italian on the other.
+[`translations/`](translations/). The corpus is two captures: the original **7 episcopal/visitation
+registers** (383 pages, c. 1566–1691) and a later **parish archive of Gerenzano** (273 pages, documents
+**1438–1892**, in 29 fascicoli across 5 fondi). The two trees mirror each other file-for-file: the same
+`<slug>/<page>.txt` path gives you the original text on one side and its Italian on the other.
 
 Early-modern clerical cursive is genuinely hard — abbreviated, idiosyncratic, mixing Latin and
 Lombard Italian, often on 2-megapixel phone photographs. The production method here is a **single
@@ -61,6 +63,10 @@ signal that drives quality — it has simply moved from *engine vs. engine* to *
 
 ## The archive
 
+Two captures, **632 photographs → 656 pages**.
+
+### Capture 1 — the episcopal/visitation registers (383 pages, c. 1566–1691)
+
 359 photographs across seven registers → **383 pages** after splitting open-book spreads:
 
 | Register (slug) | Pages | Date | Language | Notes |
@@ -78,6 +84,23 @@ signal that drives quality — it has simply moved from *engine vs. engine* to *
 > and 1579 (the latest is a child *nato 26 gennaio 1579*), a *status animarum* is contemporaneous
 > with its latest births, and the header itself reads *«Alli 23 d'agosto 1579»*. Flagged for final
 > confirmation against the physical book.
+
+### Capture 2 — the parish archive of Gerenzano (273 pages, 1438–1892)
+
+A second, later capture: the **Archivio Parrocchiale di Gerenzano**, photographed at ~13 MP and
+organised by *fondo* / *fascicolo* — 29 fascicoli across five fondi, spanning **1438–1892** (much wider
+than the visitation registers above, and overlapping the same families and places):
+
+| Fondo | Pages | Highlights |
+|---|---:|---|
+| **VI — Culto** (Legati · S. Stefano · Reliquie) | 126 | the **1438** Crivelli mass-legacy; the 1629 Bossi & Cattaneo testaments; the **S. Stefano chapel** arc (1527 foundation → 1611–14 permutation dispute → 1754 synopsis); the 1643/1649 catacomb-martyr **relic** dossiers; the 1699 S. Carlo & 1717 True-Cross relics; 19th-c legacy administration (legati Caccia/Cattaneo/Visconti, Fagnani chaplaincies) |
+| **VII — Amministrazione** | 26 | the 1727 emphyteusis of the *Cassa dei Morti* heath plot; the *Lazzaretto dei Morti* boundary papers |
+| **VIII — Chiesa Parrocchiale** | 74 | building accounts (Campo Santo chapel & portico; organ relocation); the **1862–66 new-organ dispute** with the Carrera firm; the 1848 Accademia di Belle Arti paintings (a Vivarini, a Subleyras); the 1892 general inventory |
+| **XI — Benefici** | 4 | two early-17th-c. petitions of the Knight of Malta **Fra' Ambrosio Fagnani** (1616 land exchange, 1632 garden aqueduct) |
+| **XII — Historia** | 4 | Provost **Luigi Garavaglia**'s letter to the town council on the ruinous village roads |
+
+Pages from this capture are keyed `p360–p632`; each opens with a printed *fondo / serie / fascicolo*
+cover sheet.
 
 > Source scans are **not committed** (size + rights); the pipeline reads them from `raw/`.
 
@@ -145,11 +168,12 @@ translations/<slug>/<pid>.txt        ★ modern-Italian translation per page (TH
 registers/<slug>/context.md          per-register glossary (people, places, families) used in every read
 pipeline/                            the live pipeline: Gemini read + reconcile (gemini_htr.py, config.json)
 scripts/                             preprocessing: build_manifest.py, crop_pages.py, paths.py
-dataset/manifest.csv, pages.csv      photo inventory (359 photos) + page index (383 pages)
+dataset/manifest.csv, pages.csv      photo inventory (632 photos) + page index (656 pages)
 raw/, processed/                     scans + regenerable working area (gitignored, not in this repo)
 ```
 
-Pages are keyed `p001…p359`; an `a`/`b` suffix marks the two halves of an open-book spread.
+Pages are keyed `p001…p632` (capture 1 = `p001–p359`, capture 2 = `p360–p632`); an `a`/`b` suffix marks
+the two halves of an open-book spread.
 
 **Conventions.** Transcriptions are *semi-diplomatic*: the scribe's spelling and abbreviations are
 kept, expansions go in `[brackets]` (`p[er]`, `q[uon]d[am]`), `[?]` marks one uncertain word and
@@ -183,13 +207,13 @@ The reconciliation and translation passes are LLM-in-the-loop against the croppe
 
 ## Status
 
-- [x] Acquire & extract the archive (359 photos)
-- [x] Manifest + page index (383 pages)
+- [x] Acquire & extract both captures (632 photos)
+- [x] Manifest + page index (656 pages)
 - [x] Preprocessing — EXIF + open-book **spread-splitting** + crop-to-text
 - [x] Production pipeline: **Gemini 3.1 Pro read + image-grounded LLM reconciliation**
-- [x] **Transcription — 383/383 pages** → [`transcriptions/`](transcriptions/)
-- [x] **Translation — 383/383 pages into Italian** → [`translations/`](translations/)
-- [ ] Human paleographer spot-check of [`transcriptions/_REVIEW_QUEUE.txt`](transcriptions/_REVIEW_QUEUE.txt) → verified gold + true error rate
+- [x] **Transcription — 656/656 pages** → [`transcriptions/`](transcriptions/)
+- [x] **Translation — 656/656 pages into Italian** → [`translations/`](translations/)
+- [ ] Human paleographer spot-check of the review queue → verified gold + true error rate
 - [ ] Text-based deduplication of visually-similar register pages
 - [ ] Confirm the Turate **1579** date against the physical book
 

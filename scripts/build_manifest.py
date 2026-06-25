@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build the dataset manifest: one row per source image. This is the spine.
 Transcription/dedup/translation columns get filled by later stages."""
-import os, csv, hashlib
+import os, csv, hashlib, re
 from PIL import Image, ImageFile, ImageOps
 ImageFile.LOAD_TRUNCATED_IMAGES = True  # tolerate Turate p.25's 11-byte tail
 
@@ -43,10 +43,25 @@ for dirpath, _, files in os.walk(RAW):
             "translated": "",
         })
 
-# stable page ids: register-ordered, zero-padded
+# stable page ids: preserve any already assigned in the existing manifest (keyed by
+# register+filename) so prior pages NEVER renumber; assign new sequential ids
+# (continuing past the current max) to newly-added images only. This makes ingestion
+# additive — re-running after dropping in new folders won't disturb finished pages.
+existing, maxn = {}, 0
+if os.path.exists(OUT):
+    for r0 in csv.DictReader(open(OUT)):
+        existing[(r0["register"], r0["filename"])] = r0["page_id"]
+        m = re.match(r"p(\d+)$", r0.get("page_id", "") or "")
+        if m:
+            maxn = max(maxn, int(m.group(1)))
 rows.sort(key=lambda r: (r["register"], r["filename"]))
-for i, r in enumerate(rows, 1):
-    r["page_id"] = f"p{i:03d}"
+for r in rows:                                       # freeze existing pages
+    r["page_id"] = existing.get((r["register"], r["filename"]), "")
+n = maxn
+for r in rows:                                       # number new pages, in stable order
+    if not r["page_id"]:
+        n += 1
+        r["page_id"] = f"p{n:03d}"
 
 with open(OUT, "w", newline="") as fh:
     w = csv.DictWriter(fh, fieldnames=list(rows[0].keys()))

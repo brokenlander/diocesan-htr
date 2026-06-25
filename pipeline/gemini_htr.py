@@ -37,10 +37,11 @@ KEY = Path(os.path.expanduser(CFG["key_file"])).read_text().strip()
 API = "https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent?key={k}"
 
 # ---------------------------------------------------------------- prompts
-SYSTEM = """You are an expert palaeographer producing a DIPLOMATIC transcription of an
-early-modern (1560s-1690s) manuscript page from a Lombard diocesan archive (Pieve d'Appiano,
-diocese of Milan). The hands are hard cursive; the languages are early-modern Italian
-(Lombard clerical) and documentary Latin.
+SYSTEM = """You are an expert palaeographer producing a DIPLOMATIC transcription of a
+manuscript page from a Lombard parish/diocesan archive (parish of Gerenzano, Pieve d'Appiano,
+diocese of Milan). The material spans c. 1430-1850 (late-medieval notarial Latin, early-modern
+Lombard-clerical Italian, and 19th-century administrative Italian). The hands are hard cursive;
+identify the period/language of THIS page from the script and content, and transcribe accordingly.
 
 ABSOLUTE RULES (a wrong guess is worse than an honest gap):
 - Transcribe ONLY what is actually written. Never invent, complete, or "improve" text.
