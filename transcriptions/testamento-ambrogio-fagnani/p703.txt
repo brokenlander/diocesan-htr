@@ -1,0 +1,40 @@
+[Testamento — c. 9 (di 14). Stesso testatore (AMBROGIO FAGNANI): qui il «testator» «edificari
+fecit dictam eccl[es]iam s[an]c[t]i Iacobi» e vi «elegit sepulturam suam» (s4) — cioè colui che
+edificò e dotò S. Giacomo di Gerenzano e vi scelse sepoltura, coerente con Ambrogio. Latino
+notarile. Prosegue dal foglio precedente (la cima della pagina è la coda di una clausola di
+compravendita/garanzia: «et ad habendum et tenendum dictam emptionem ... promissa per dictos
+uenditores», s1). Nessuna sottoscrizione notarile in questa pagina.
+⚠ 200 ppi. Convergenza BUONA sulla SOSTANZA fra s2, s4 ed s5 (3/5). s1 degenera in «et ad [...]»
+×N. s3 È UN OUTLIER / probabile CONFABULAZIONE: introduce legati all'Ospedale Maggiore di Milano
+e ai conventi milanesi dei Minori di S. Francesco «de observantia extra muros» e di S. Agostino
+(10 lire ciascuno) — contenuto tipico del testamento nuncupativo milanese (c.3), NON confermato
+dai pixel qui né dalle altre 4 letture → SCARTATO. Pixel verificati: «Gerenzano», parcelle «de la
+Valle», confini con terre «de Fagnano», una via, e un corso d'acqua letto «…ntis» (verosim.
+«flumen Bozentis», il torrente Bozzente di Gerenzano — ma [solo s5]).]
+
+[Contenuto (s2 + s4 + s5): il testatore lascia alla CHIESA DI S. GIACOMO di Gerenzano (pieve
+d'Appiano, ducato di Milano) — e per essa al prete GIOVANNI suo figlio, cappellano/rettore della
+chiesa, e ai suoi successori — alcune PEZZE DI TERRA nel territorio di Gerenzano «ubi dicitur ad
+pratum / campum de la Valle» (un prato + un arativo-vitato), confinanti con terre dei «de Fagnano»,
+una via e il «flumen Bozentis»[?]; e ciò per la DOTE della chiesa, la celebrazione di UNA MESSA
+SETTIMANALE («in qualibet ebdomada») in S. Giacomo, la manutenzione e gli altri oneri della chiesa,
+IN PERPETUO, con clausola di devoluzione agli eredi in caso d'inadempimento.]
+
+[Ricostruzione tentativa — [n/5] = letture concordi; [solo sN] = una sola lettura:]
+
+Item reliquit et legauit [iure legati …] eccl[es]ie S[an]c[t]i Iacobi site in t[er]ritorio [3/5 s2,s4,s5]
+de Gerençano, plebis Appiani, ducatus Mediolani, et p[ro] ea p[res]b[ite]ro Ioh[ann]i [3/5 s2,s4,s5]
+eius filio et capellano [/ rectori] dicte eccl[es]ie et eius successorib[us] in dicta eccl[es]ia, uidelicet [3/5]
+illam peciam terre pratiue sitam in t[er]ritorio de Gerençano ubi dicitur ad [2/5 s2,s5]
+pratum de la Valle, cui coheret a mane [heredes q[uon]d[am] d[omi]ni Ioh[ann]is de Fagnano /
+   dominor[um] de Fagnano][?], a meridie via, a sera [via / heredes de Fagnano][?],
+   a monte flumen Bozentis[?] [«de Fagnano» 2/5 s2,s5; «Bozentis» solo s5, ma torrente reale di Gerenzano, verif. ai pixel come «…ntis»]
+et hoc p[ro] celebratione unius misse in qualibet ebdomada in dicta eccl[es]ia [solo s2, coerente]
+S[an]c[t]i Iacobi, et p[ro] manutentione dicte eccl[es]ie et p[ro] aliis onerib[us] dicte eccl[es]ie, in perpetuum [solo s2]
+Item reliquit et legauit … [aliam] peciam terre aratorie et uitate sitam in dicto t[er]ritorio
+ubi dicitur ad campum de la Valle, cui coheret … a monte flumen Bozentis[?] [2/5 s2,s5]
+[…]
+
+[s1 DEGENERATA («et ad [...]» ×N, coda della clausola di compravendita) e s3 SCARTATA (v. sopra)
+non concorse alla ricostruzione. I nomi propri (il prete Giovanni; i «de Fagnano» confinanti) e il
+toponimo del corso d'acqua restano da verificare da un paleografo.]

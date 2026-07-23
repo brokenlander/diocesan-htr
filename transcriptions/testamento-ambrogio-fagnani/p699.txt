@@ -1,0 +1,76 @@
+[Testamento — c. 5 (di 14). Continua l'atto aperto a c. 3 (p697) / c. 4 (p698): disposizioni PIE
+del testamento di AMBROGIO FAGNANI (S. Giacomo di Gerenzano). ⚠⚠ PAGINA A BASSA AFFIDABILITÀ
+(200 ppi, inchiostro sbiadito, forte trasparenza dal verso). Le 5 letture NON convergono su un
+testo unico: s1–s4 concordano SOLO sulla formula d'apertura delle clausole — (4/5) «Item reliquit
+et legavit ipse testator iure legati pro anima sua et suorum defunctorum …» — ma DIVERGONO sui
+dettagli (importi, scopo, festa) e ciascuna degenera in loop; s5 legge tutt'altro (supplementi di
+dote alle figlie). Quanto segue registra le clausole-candidate di ogni lettura, ciascuna con la sua
+(scarsa) concordanza [n/5] / [solo sN]; NON è una sequenza continua accertata. Ricostruzione
+tentativa, da verificare da un paleografo.]
+
+[La pagina contiene una SERIE di legati pii alla chiesa di S. Giacomo di Gerenzano, ciascuno
+introdotto dalla formula (4/5) «Item reliquit et legavit ipse testator iure legati pro anima sua
+et suorum defunctorum …».]
+
+── Clausola-candidata A — COMMISSIONE dell'ANCONA (pala d'altare) per S. Giacomo ──
+[solo s1 (1/5); MA il contenuto è corroborato da fonti storico-artistiche esterne (Ambrogio lasciò
+di far completare l'ancona di S. Giacomo). Cifra £100 e nome del fratello NON verificati ai pixel:]
+Item reliquit et legavit ipse testator iure legati et pro anima
+sua et suorum defunctorum eccl[es]ie s[an]cti Iacobi site
+in territorio de Gerenzano, et in qua ipse testator
+elegit sepulturam suam ut supra, illas libras centum[?]
+imp[er]iales quas ipse testator habere debet a d[omi]no
+Iohanne Petro de Fagnano[?] eius fratre pro resto
+dotis d[omi]ne […] eius uxoris; et quas libras centum[?]
+imp[er]iales ipse testator legavit et reliquit
+dicte eccl[es]ie pro emendo et fieri faciendo unam
+anconam[?] pro dicta eccl[es]ia.
+
+── Clausola-candidata B — legati per MESSE CANTATE nelle feste dei santi ──
+[solo s2 (1/5), non confermato dalle altre letture; degenerata in loop:]
+Item reliquit et legavit ipse testator iure legati pro anima sua et suorum defunctorum
+in perpetuum, annuatim omni anno in perpetuum, scilicet in festo s[an]cti Iacobi[?]
+pro parando et celebrando unam missam cantatam in eccl[es]ia
+s[an]cti Iacobi de Gerenzano, libras duas et solidos decem[?] imperialium,
+dandos et solvendos ut supra per heredes suos infrascriptos presbitero qui
+dictam missam cantatam celebrabit in dicta ecclesia.
+[analoghe clausole per le feste di s. Iohannis Baptiste / s. Petri / s. Pauli — solo s2, feste da verificare]
+
+── Clausola-candidata C — legati per UFFICI («offitia parva») nelle feste ──
+[solo s4 (1/5); feste e importi non concordati:]
+Item reliquit et legavit ipse testator iure legati pro anima sua et suorum defunctorum
+in perpetuum, annuatim omni anno in perpetuum, libras sex[?] / quinque[?] imperiales
+pro uno offitio parvo celebrando in dicta eccl[es]ia s[an]cti Iacobi,
+in die s[an]cti Iacobi de mense iulii …
+[analoghe per s. Iohannis Baptiste (iunii), s. Ambrosii (decembris), s. Petri, s. Pauli, s. Ioseph
+(martii) — solo s4]
+
+── Clausola-candidata D — legato di 6 lire per un sacerdote celebrante ──
+[solo s3 (1/5), degenerata in loop:]
+Item reliquit et legavit ipse testator iure legati pro anima sua et suorum defunctorum
+in perpetuum, annuatim omni anno in perpetuum, libras sex[?] imperialium
+pro uno f[ratre] p[resbite]ro qui celebret in dicta eccl[es]ia s[an]cti Iacobi;
+et in casu quo non celebretur in dicta eccl[es]ia s[an]cti Iacobi,
+dictum legatum sit et intelligatur pro dicta eccl[es]ia s[an]cti Iacobi
+et pro fabrica dicte eccl[es]ie s[an]cti Iacobi.
+
+── LETTURA DIVERGENTE — s5 (1/5): NON legati pii ma supplementi di DOTE alle FIGLIE ──
+[Contenuto affine al c. 4 (p698): può appartenere a una clausola adiacente della stessa pagina o
+essere una contaminazione dal contesto; NON confermato ai pixel come testo di questa pagina. Tutti
+i nomi/cognomi/cifre sono da verificare:]
+It[em] prout ex promiss[ione] per ip[su]m test[atorem] facta d[omi]no p[res]b[ite]ro Ioh[ann]i
+eius filio ante ip[s]ius ordi[nation]em, relinq[ui]t ip[s]i p[res]b[ite]ro Ioh[ann]i pro eius
+ali[ment]is et vestitu omnes fructus, redditus et p[ro]ventus om[n]ium bonor[um] ip[s]ius
+test[atoris] iace[n]tium in t[er]ritorio de Gerenzano …, prout in ip[s]a promiss[ione] facta per
+ip[su]m test[atorem] in manib[us] d[omi]ni p[res]b[ite]ri Ioh[ann]is de Fagnano p[re]positi
+eccl[es]ie s[an]c[t]i Stephani de Apiano[?], ad q[uam] h[ab]eat[ur] relatio.
+It[em] relinq[ui]t d[omi]ne Cat[er]ine[?] eius filie et uxo[ri] d[omi]ni Ioh[ann]is de Bosiis[?]
+lib[ras] q[ui]nquaginta[?] i[m]p[eriales] ultra eius dote[m], p[ro]ut i[n] i[n]str[ument]o dotis
+ad q[uod] h[ab]eat[ur] relatio.
+It[em] … d[omi]ne Margarite[?] … uxo[ri] d[omi]ni Anthonii de Mag[n]is[?] …
+It[em] … d[omi]ne Ysabelle[?] … uxo[ri] d[omi]ni Ioh[ann]is de Crivellis[?] …
+It[em] … d[omi]ne Lucretie[?] … It[em] … d[omi]ne Beatrici[?] … It[em] … d[omi]ne Fra[n]cische[?]
+… It[em] … d[omi]ne Lucie[?] … [ciascuna «lib[ras] quinquaginta imp[eriales] ultra eius dotem»].
+
+[N.B. — NESSUNA sottoscrizione notarile né lista di testimoni in questa pagina.]
+[Il testo prosegue a c. 6 (p700), che APRE UN NUOVO ATTO (nuova invocazione + datazione).]

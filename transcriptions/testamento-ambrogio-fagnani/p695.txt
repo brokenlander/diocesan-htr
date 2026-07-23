@@ -1,46 +1,74 @@
-[Testamento di Ambrogio Fagnani detto Faruffini, 18 ottobre 1517 — c. 1 (di 14). Copia
-notarile (exemplum) in latino notarile fittamente abbreviato.
-⚠ CEILING DI RISOLUZIONE: scansione a 200 ppi (nativa dal PDF, non migliorabile) + inchiostro
-sbiadito. Il PROTOCOLLO iniziale (invocazione, data, identità del testatore, clausola di sanità,
-sepoltura, primi legati alla fabbrica di S. Giacomo e alla scola di S. Maria) è leggibile e
-verificato sull'immagine. Dall'elenco dei legati ai figli in poi la lettura poggia
-sostanzialmente sul FORMULARIO notarile + lettura Gemini e NON è verificabile pixel-per-pixel a
-questa risoluzione: i nomi propri sono perciò marcati [?]. La debole «marginalia» a sinistra è
-controscritto del verso, non annotazione. → in coda al REVIEW_QUEUE.]
+[Testamento di Ambrogio Fagnani detto Faruffini — c. 1 (di 14), 18 ottobre 1512. Copia notarile
+(exemplum) in latino notarile fittamente abbreviato.
+⚠ FONTE A 200 ppi + inchiostro sbiadito. Ricostruzione da un ENSEMBLE DI 5 LETTURE Gemini 3.1 +
+adjudicazione ai pixel dove possibile. Il PROTOCOLLO (righe iniziali) è leggibile ai pixel e
+concorde su 5/5 letture. La parte centrale/bassa (dote della moglie, istituzione degli eredi) è
+sotto la soglia di leggibilità ai pixel: il testo segue la migliore lettura d'insieme, con il grado
+di concordanza indicato [n/5] sui punti chiave; le clausole a lettura singola sono marcate [?].
+--- CORREZIONI rispetto alla prima stesura (2026-07-23): (a) ANNO = 1512 (duodecimo, 4/5), non 1517;
+(b) la MOGLIE **Iohannina / Giovannina** — prima OMESSA — è recuperata (uxor 3/5); (c) il figlio +
+7 figlie sono **EREDI UNIVERSALI in parti uguali** (heredes universales, equis portionibus), NON
+legatari di «libras centum» ciascuno: quel dettaglio era una confabulazione della sola lettura s1,
+non confermato da nessun'altra lettura. La faint «marginalia» resta controscritto del verso.]
 
 [margine sinistro, altra mano/segnatura: croce e lettere «F. A.»; controscritto del verso non trascritto]
 
-Exemplu[m] t[esta]m[en]ti q[uon]d[am] d[omi]ni Ambrosij de Fagnano dicti Faruffini
+Exemplu[m] t[esta]m[en]ti q[uon]d[am] d[omi]ni Ambrosij de Fagnano dicti Faruffini.
 In Nomine d[omi]ni ame[n]. Anno a Nativitate eiusdem Millesimo
-quingentesimo decimo septimo, Indictione quintadecima, die lune
-decima octava mensis octobris. Cum nichil sit certius morte
-et nichil incertius hora mortis, hinc est q[uod] prudens et discretus
-vir d[omi]nus Ambrosius de Fagnano dictus Faruffinus, filius q[uon]d[am] d[omi]ni
-Iohannis, habitator loci de Gerenzano plebis Appiani ducatus M[edio]l[an]i, sanus mente
-sensu visu et intellectu licet corpore languens, nolens de hoc seculo
-intestatus decedere, suum condidit et fecit testamentum et ultimam
-voluntatem in hunc qui sequitur modum videlicet. In primis quidem animam
-suam altissimo creatori suo et gloriose virgini Marie totique celesti
-curie humiliter et devote recomendavit; et corpus suum sepeliri
-voluit et mandavit in ecclesia sancti Iacobi campestri dicti loci de
-Gerenzano, in sepulcro suorum maiorum. Item reliquit et legavit
-fabrice dicte ecclesie sancti Iacobi libras decem imperiales pro una
-vice tantum. Item reliquit et legavit scole sancte Marie de dicto
-loco libras quinque imperiales pro una vice tantum. Item reliquit
-et legavit d[omi]no presbitero Iohanni[?] de Fagnano eius filio naturali
-et legitimo libras centum imperiales pro una vice tantum. Item
-reliquit et legavit d[omi]ne Caterine[?] de Fagnano eius filie naturali
-et legitime libras centum imperiales pro una vice tantum. Item
-reliquit et legavit d[omi]ne Margarite[?] de Fagnano eius filie naturali
-et legitime libras centum imperiales pro una vice tantum. Item
-reliquit et legavit d[omi]ne Isabelle[?] de Fagnano eius filie naturali
-et legitime libras centum imperiales pro una vice tantum. Item
-reliquit et legavit d[omi]ne Lucretie[?] de Fagnano eius filie naturali
-et legitime libras centum imperiales pro una vice tantum. Item
-reliquit et legavit d[omi]ne Beatrici[?] de Fagnano eius filie naturali
-et legitime libras centum imperiales pro una vice tantum. Item
-reliquit et legavit d[omi]ne Francische[?] de Fagnano eius filie naturali
-et legitime libras centum imperiales pro una vice tantum. Item
-reliquit et legavit d[omi]ne Lucie[?] de Fagnano eius filie naturali
-et legitime libras centum imperiales pro una vice tantum.
-[il testo prosegue a c. 2 (p696)]
+quingentesimo duodecimo [1512, 4/5], Indictione quintadecima [5/5], die lune
+decima octava mensis octobris. Cum nichil sit certius
+morte et nichil incertius hora mortis, et ne in humanis p[ro]p[ter] sub[-]
+itaneos mortis casus (qui sepe contingunt) ad morte[m]
+subitaneam p[ro]videatur, idcirco p[ro]vidus vir d[omi]nus Ambrosius
+de Fagnano filius q[uon]d[am] d[omi]ni Iohannis, tenens solitu[m] do[-]
+miciliu[m] in loco de Gerenzano plebis Appiani ducatus M[edio]l[an]i, sanus mente
+sensu et intellectu licet corpore aliquantulu[m] languens per Dei gratiam,
+suum condidit et fecit testamentum et ultimam suam voluntatem
+in hunc modum videlicet. In primis namq[ue] animam suam
+altissimo creatori suo et gloriose virgini Marie totiq[ue] celesti
+curie humiliter et devote recomendavit. Sepeliriq[ue] voluit
+eius corpus in ecclesia sancti Iacobi [5/5] sita in t[er]ritorio dicti loci
+de Gerenzano. Item iudicavit et legavit scole sancte Marie [3/5]
+sive consorcio illorum de la scola dicti loci de Gerenzano libras
+quinq[ue] imp[erialium] semel tantum, solvendas per infrascriptos eius heredes
+infra unum annum proxime futurum a die mortis sue,
+pro anima sua et suorum defunctorum.
+[fabbrica di S. Giacomo, libras decem: lettura minoritaria (2/5, s1+s5), incerta — [?]]
+Item iudicavit et legavit
+d[omi]ne Iohannine [3/5] eius uxori dilecte omne id et totum quod
+ipsa d[omi]na Iohannina adduxit in dotem ipsi d[omi]no Ambrosio
+tempore eorum matrimonii; et ultra dotem voluit et mandavit
+quod ipsa d[omi]na Iohannina sit et esse debeat d[omi]na et usufructuaria[?]
+omnium et singulorum bonorum ipsius d[omi]ni testatoris durante
+eius vita naturali, dummodo ipsa d[omi]na Iohannina se servaverit
+in statu viduali et caste vixerit, et non aliter nec alio modo. [clausola usufrutto: 1/5, s4]
+[⚠ STRUTTURA CONTESA — le 5 letture si dividono 2–2 su come il testatore dispone di figlio e
+figlie; i NOMI concordano, la forma giuridica no. I pixel sono troppo sbiaditi per decidere:
+  · variante A (s4, s5): li istituisce tutti EREDI UNIVERSALI in parti uguali —
+    «In omnibus autem aliis suis bonis mobilibus et immobilibus, iuribus et actionibus universis
+     presentibus et futuris, suos heredes universales instituit d[omi]num presbiterum Iohannem eius
+     filium legitimum et naturalem, et d[omi]nas Catherinam, Margaritam, Isabellam, Lucretiam,
+     Beatricem, Franciscam et Luciam eius filias, equis portionibus»;
+  · variante B (s1, s3): lascia a CIASCUNA FIGLIA un legato di 100 lire (s3: «pro eius dote» = a
+    titolo di dote), presumibilmente istituendo erede il figlio —
+    «Item iudicavit et legavit d[omi]ne Catherine [Margarite / Isabelle / Lucretie / Beatrici /
+     Francische / Lucie] eius filie libras centum imp[eriales] p[ro] una vice tantum [pro eius dote]».
+Figlio: **d[omi]nus presbiter Iohannes**, filius legitimus et naturalis. Figlie (nomi 3/5):
+**Catherina, Margarita, Isabella, Lucretia, Beatrix, Francisca, Lucia**.
+[CROSS-CHARTER (aggiunto nella revisione d'insieme): gli altri atti del dossier propendono per il
+FIGLIO come erede e le FIGLIE come legatarie/dotate (→ variante B). c.8 (p702) legge il figlio prete
+Giovanni come «heres universalis … prefati testatoris»; c.11/c.13 (p705/p707) istituiscono eredi i
+FIGLI maschi «Iohannes Iacobus et Iohannes Baptista» con sostituzione fedecommissaria, e c.14 (p708)
+mostra il figlio Giovanni divenuto prevosto di S. Giacomo. Nessuna di queste carte fa delle figlie
+coeredi in parti uguali. Resta però [?]: le carte sono di mani/atti diversi e i pixel di c.1 non
+decidono. Se ne dà atto senza forzare c.1.]]
+Et hoc est suum testamentum et ultima sua voluntas,
+quod et quam valere voluit iure testamenti, et si iure testamenti
+non valeret, valere voluit iure codicillorum et cuiuslibet alterius
+ultime voluntatis; cassans et annullans omne aliud testamentum
+per eum hactenus factum et conditum. Rogans me notarium infrascriptum
+ut de premissis unum vel plura conficere debeam publica instrumenta.
+[Il testamento PROSEGUE a c. 2 (p696) con la clausola di validità ripetuta e ULTERIORI legati,
+fra cui quello alla chiesa di S. Giacomo «prout in ea edificata per ipsum testatorem» (la chiesa
+edificata dallo stesso testatore — cfr. le fonti a stampa: Ambrogio Fagnani ampliò S. Giacomo).
+La sottoscrizione notarile e i testimoni sono più avanti.]

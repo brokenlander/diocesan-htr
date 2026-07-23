@@ -1,0 +1,34 @@
+[Copia del testamento di Ambrogio Fagnani — c. 14 (di 14), ULTIMA CARTA. La pagina è VUOTA salvo un
+DOCKET/endorsement archivistico di 4 righe in alto (grafia sbiadita, inchiostro grigio slavato,
+diverso dalla mano del testo). Le 5 letture concordano che si tratta dell'endorsement di una COPIA
+(«Copia … testamenti») del testamento di Ambrogio Fagnani, ma DIVERGONO molto sulle righe 1–3; ai
+pixel ho potuto confermare solo alcuni elementi (riga 1: «…ab alia p[ro]ducta»; riga 4: «Donato
+Bonarico»). NON è la sottoscrizione notarile / l'escatocollo del testamento (che sarebbe su una carta
+precedente), bensì la nota di provenienza/collazione della copia. Da verificare da un paleografo.]
+
+[DOCKET, 4 righe — ricostruzione dall'ensemble; concordanza [n/5] indicata:]
+Copia […] est vid[elicet] […] ab alia p[ro]ducta[?]
+   [«ab alia p[ro]ducta» CONFERMATO ai pixel + s2; il resto della riga […]]
+[…] test[ament]i q[uon]d[am] d[omi]ni AMBROSIJ [de] FAGNANO dicti FARUFFINI, f[ilii] q[uon]d[am]
+d[omi]ni Iohannis […]
+   [«Ambrosij fagnani / de fagnano» 5/5; «faruffini» 5/5; «testamenti» 4/5; «filii q[uon]d[am] d[omi]ni
+   Iohannis» 2/5 (s1) + coerente col glossario; il DOMICILIO milanese è CONTESO (s1 «s. Petri … porte
+   nove»; altre carte danno parrocchie diverse) → […]]
+[…] in oppidulo/oppido de GERE[N]ZANO[?] […] rogat[o] p[er] d[omi]n[u]m Ioh[ann]em de [la Porta?]
+not[arium] Mediolani […]
+   [«oppido/oppidulo … gerenzano» 3/5 (s3,s4,s5); «notariu[m] Mediolani» 2/5 (s3,s4); «Ioha[n]nem de
+   la porta[?]» solo s3, casato [?] — ma cfr. c.12/p706 s3, stessa citazione del notaio]
+DONATO BONARICO[?]   [4/5 (s1,s2,s4,s5) + CONFERMATO ai pixel (riga 4); grafia «Bonarico»/«Bonaricho»]
+
+[★ REPERTI (con concordanza):
+· IDENTITÀ: COPIA del testamento del fu signor AMBROGIO FAGNANO detto FARUFFINO, figlio del fu signor
+  Giovanni — 5/5.
+· «DONATO BONARICO» (Donatus Bonaricus) — 4/5 + pixel: verosimilmente il copista/collazionatore o
+  l'estensore dell'endorsement.
+· NOTAIO ORIGINALE del testamento: «d[ominus] Ioh[ann]es de [la Porta?], notarius Mediolanensis» —
+  solo s3 QUI, ma CORROBORATO dalla medesima citazione a c.12/p706 (s3) → reperto notarile credibile
+  pur col casato [?].
+· PROVENIENZA (solo s2, [?]): la copia sarebbe stata vista/ottenuta «p[er] d[ominum] p[res]b[ite]rum
+  Ioha[n]nem de Fagnano, p[re]p[osi]tum … eccl[es]ie s[an]c[t]i Iacobi» — cioè il figlio presbitero
+  GIOVANNI FAGNANI, divenuto PREVOSTO di S. Giacomo. Da verificare.]
+[fine della sequenza c.11–c.14.]

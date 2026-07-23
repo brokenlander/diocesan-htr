@@ -1,0 +1,48 @@
+[Testamento di Ambrogio Fagnani — c. 13 (di 14). ⚠ 200 ppi, affidabilità MISTA. La pagina si apre
+(confermato ai pixel) con «Item, ordino e provvedo…» — NON è un nuovo atto (manca «In nomine
+domini»): la lettura s4, che qui inventa il protocollo d'apertura del 1512 con domicilio milanese,
+è una CONFABULAZIONE ed è scartata. Le altre letture DIVERGONO: s2 (1ª persona: commissione
+ancona/affreschi + legato alla moglie + usufrutto) e s3 (3ª persona: condizione sul figlio presbitero
++ legato alla moglie + istituzione d'erede) danno clausole diverse dello stesso specchio; s1 in loop,
+s5 in parte in loop. Si riportano gli elementi meglio sostenuti; nomi propri da tenere [?]. Da
+verificare da un paleografo.]
+
+[Apertura (ai pixel):]
+Parimenti ordino e provvedo che i [miei/suoi] eredi siano tenuti …   [2/5: s2, s5]
+
+[A) Commissione ancona + affreschi di S. Giacomo — da s2 (medium); stesso programma di c.12,
+   corroborato da fonti esterne:]
+… far dipingere nella detta chiesa di S. Giacomo, nella cappella dove è l'altare, come è stato
+iniziato: cioè nella volta della cappella DIO PADRE e i quattro Evangelisti e i quattro Dottori; e
+nell'ancona dello stesso altare, che è di legno, far dipingere al centro l'immagine della gloriosa
+Vergine Maria, e sul lato destro S. Pietro e S. Giacomo, e sul lato sinistro S. Paolo e S. Giovanni
+Battista, e un angelo che suona ai piedi della detta Vergine Maria; e ciò entro un anno prossimo
+futuro dopo la mia morte.   [s2, medium; iconografia CONFERMATA da fonti esterne]
+
+[B) Legato alla MOGLIE — da s2 (medium); NOME conteso:]
+Parimenti lascio a titolo di legato alla signora [GIOVANNA[?] / Francesca(?)], mia carissima moglie,
+tutta quella sua dote che mi diede e pagò in denaro contante, e della quale risulta lo strumento di
+confessione di dote rogato dal signor GIOVANNI PIETRO DE CARCANO[?], notaio di Milano; e oltre alla
+detta dote lascio alla stessa signora … mia moglie tutte le sue vesti, tanto di lana quanto di lino
+e di seta, e gli anelli e le altre sue cose personali;
+Parimenti lascio … alla mia carissima moglie l'USUFRUTTO (usumfructum) di tutti i miei beni mobili e
+immobili, ovunque si trovino … durante la sua vita vedovile e casta, e finché rimarrà nella mia casa
+con i miei eredi sottoscritti.   [s2, medium]
+[★ NOME DELLA MOGLIE conteso ai pixel: s2 legge «Francesca»; s3 legge «signora Giovanna, figlia del
+fu signor Giovanni de Proviniis[?]»; l'anagrafe interna del progetto (c.1) dà la moglie «Giovannina».
+«Francesca» coincide col nome di una FIGLIA (c.4) → probabile scambio confabulatorio; si preferisce
+«Giovanna[?]», ma resta [?]. Notaio della dote «Giovanni Pietro de Carcano»: solo s2, [?].]
+
+[C) Variante s3/s5 (3ª persona, alternativa dell'ensemble allo stesso specchio — NON conciliabile con
+   A/B; riportata per onestà, da adjudicare da un paleografo):]
+· [s3] condizione sul figlio presbitero: «se il detto signor presbitero Giovanni non ascenderà
+  all'officio del presbiterato … sia privato e decada da tutto ciò che gli è stato legato»; poi
+  ISTITUZIONE D'EREDE: istituì eredi universali «il signor Giovanni Giacomo e il signor Giovanni
+  Battista, fratelli e suoi figli legittimi», con sostituzione del «presbitero Giovanni suo figlio»
+  e poi dei «figli del fu signor Giovanni de Fagnano suo fratello». [nomi tutti [?]]
+· [s5] provvedimento rimesso «all'arbitrio del signor presbitero Giovanni suo figlio»; legati pii
+  «per l'anima sua e dei suoi morti» agli Ordini mendicanti — «a S. Francesco, S. Domenico, S.
+  Agostino e S. Ambrogio». [tutto [?]]
+
+[Nessun elenco di testimoni né sottoscrizione notarile in questa pagina.]
+[il testo prosegue a c. 14 (p708), che è il docket/endorsement della copia.]

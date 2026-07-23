@@ -1,0 +1,46 @@
+[Testamento Fagnani — c. 11 (di 14). ⚠ 200 ppi, affidabilità MISTA. Delle 5 letture, 3 (s2, s3,
+s4) sono DEGENERATE in loop e vanno scartate (s2 ripete «d[omi]no p[et]ro», s3 «filijs… p[er]sonis…
+d[omi]no p[res]b[ite]ro Ioh[ann]i», s4 «d[ic]to fratri n[ost]ro… p[ro]ut in…»); s1 è conservativa
+(quasi tutto […]); SOLO s5 fornisce un testo coerente e non ripetitivo, ma è sostanzialmente
+SINGLE-READ (1/5). La pagina contiene l'ISTITUZIONE D'EREDE + la SOSTITUZIONE FEDECOMMISSARIA di un
+testamento Fagnani (verosimilmente di Ambrogio stesso — cfr. il docket di c.14/p708 «Copia
+testamenti Ambrosii» e le disposizioni per S. Giacomo a c.12/p706 — MA la clausola «dominum
+Iohannem eius fratrem» mette in tensione l'identità del testatore, che qui istituisce eredi i PROPRI
+figli maschi: FLAG). Nessun elenco di testimoni né sottoscrizione notarile in questa pagina.
+Ricostruzione tentativa; da verificare da un paleografo.]
+
+[in alto (righe di raccordo dalla c. precedente, non recuperate dall'ensemble): un nome ai pixel —]
+… filijs [dicti] d[omi]ni Dalmasij[?]/Ambrosij[?] de […]   [nome CONTESO: «Dalmazy» s1 + traccia
+   ai pixel; «dicti d[omi]ni Ambrosij» s4+s5 (2/5)]
+[…] p[ro] p[ar]te de sua p[ar]te […]                       [solo s1]
+[…] d[ic]to fratri n[ost]ro […]                            [2/5: s1, s4]
+
+[ISTITUZIONE D'EREDE + FEDECOMMESSO — testo coerente da s5 (1/5), struttura notarile tipica;
+ sostegno incrociato dove indicato:]
+… filijs dicti d[omi]ni Ambrosij et                         [2/5: s4, s5]
+[filijs] de l[egi]timo matrimonio natis et nascituris p[er] equales portiones in om[n]ib[us]
+suis bonis mobilib[us] et imobilib[us], iurib[us] et actionib[us] p[re]sentib[us] et futuris,
+instituit et esse voluit suos heredes univ[er]sales.
+Ita q[uod] dicti eius filij masculi, p[ro]ut supra … nascituri, succedant in om[n]ib[us] bonis
+dicti d[omi]ni testatoris p[er] equales portiones.
+Et si aliquis ex dictis eius filijs masculis decesserit sine filijs l[egi]timis et naturalib[us],
+tunc et in eo casu substituit et esse voluit dictos alios eius filios masculos sup[er]stites
+in portione dicti decedentis.
+Et si om[n]es dicti eius filij masculi decesserint sine filijs l[egi]timis et naturalib[us],
+tunc et in eo casu substituit et esse voluit dictas eius filias feminas, p[ro]ut supra
+no[m]i[n]atas et nascituras, p[er] equales portiones in om[n]ib[us] bonis dicti d[omi]ni testatoris.
+Et si alique ex dictis eius filiabus feminis decesserint sine filijs l[egi]timis et naturalib[us],
+tunc et in eo casu substituit et esse voluit dictas alias eius filias feminas sup[er]stites
+in portione dictarum decedentium.
+Et si om[n]es dicte eius filie femine decesserint sine filijs l[egi]timis et naturalib[us],
+tunc et in eo casu substituit et esse voluit in om[n]ib[us] bonis dicti d[omi]ni testatoris
+d[omi]num Iohannem eius fratrem[?].                         [«eius fratrem» solo s5 — in tensione
+   genealogica col resto del volume (altrove Iohannes è figlio/padre di Ambrogio): FLAG]
+Et si dictus d[omi]nus Iohannes decesserit sine filijs l[egi]timis et naturalib[us],
+tunc et in eo casu substituit et esse voluit in om[n]ib[us] bonis dicti d[omi]ni testatoris
+Hospitale maius Mediolani[?].                               [solo s5; l'Ospedale Maggiore come
+   sostituto finale è coerente col pattern del volume (cfr. c.3/p697)]
+
+[parte INFERIORE della pagina (~8–10 righe): fittissima e NON recuperata da nessuna delle 5 letture
+(s5 si ferma qui; s1–s4 in loop) — […] illeggibile a 200 ppi.]
+[il testo prosegue a c. 12 (p706).]

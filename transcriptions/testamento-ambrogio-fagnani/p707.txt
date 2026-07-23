@@ -1,0 +1,55 @@
+[Testamento di Ambrogio Fagnani — c. 13 (di 14). ⚠ 200 ppi, affidabilità MISTA. La pagina si apre
+(CONFERMATO ai pixel) con «Item ordino et p[ro]uide[o]…» — NON è un nuovo atto (nessun «In nomine
+domini»): la lettura s4, che qui inventa il protocollo d'apertura del 1512 con domicilio milanese
+«porte Ticinensis, par. s. Nicolai», è una CONFABULAZIONE ed è SCARTATA. Le altre letture DIVERGONO
+sul contenuto: s2 (1ª persona: commissione ancona/affreschi + legato alla moglie + usufrutto) e s3
+(3ª persona: condizione sul figlio presbitero + legato alla moglie + istituzione d'erede) danno
+clausole DIVERSE dello stesso specchio; s1 in loop («p[ro]ut in ea»), s5 parzialmente in loop. Si
+riportano gli ELEMENTI meglio sostenuti con la loro concordanza; nomi propri da tenere [?]. Da
+verificare da un paleografo.]
+
+[Apertura (ai pixel):]
+It[em] ordino et p[ro]uide[o/t] q[uod] ip[s]i [mei/sui] h[e]r[ed]es teneant[ur] …   [2/5: s2, s5;
+   s3 legge «ordinat et p[ro]uidet»]
+
+[A) Commissione ancona + affreschi di S. Giacomo — da s2 (medium); stesso programma di c.12,
+   corroborato da fonti esterne:]
+… facere depingi in d[i]c[t]a eccl[es]ia s[an]c[t]i Iacobi, in capella ubi est altare, p[ro]ut
+i[n]ceptu[m] est: vid[elicet] in uolta ip[s]ius capelle DEU[M] PATREM et quatuor evangelistas et
+quatuor doctores; et in ancona ip[s]ius altaris, que est de ligno, depingi facere in medio ip[s]ius
+ancone imaginem gloriose Virginis Marie, et a latere dextro s[an]c[t]um Petrum et s[an]c[t]um
+Iacobum, et a latere sinistro s[an]c[t]um Paulum et s[an]c[t]um Ioha[n]nem Baptistam, et unum
+angelum pulsantem ad pedes d[i]c[t]e Virginis Marie; et hoc infra unum annu[m] p[ro]x[imum]
+futuru[m] post meum obitum.   [s2, medium; programma iconografico CONFERMATO da fonti esterne]
+
+[B) Legato alla MOGLIE — da s2 (medium); NOME della moglie CONTESO:]
+Item relinquo iure legati d[omi]ne [IOH[ANN]E[?] / Francische(?)] uxori mee dilectissime omne illud
+dotis suum q[uod] mihi dedit et soluit in pecunia numerata, et de quo apparet i[n]str[umentu]m
+confessionis dotis rogatum p[er] d[ominum] IOHA[N]NEM PETRUM DE CARCANO[?] not[arium] Mediolani;
+et ultra d[i]c[t]am dotem relinquo ip[s]i d[omi]ne … uxori mee omnes et singulas vestes suas, ta[m]
+lane q[uam] lini et serici, et anulos et alias res suas p[ro]p[ri]as ad usum suum p[ro]p[ri]um
+p[er]tinentes;
+Item relinquo … uxori mee dilectissime USUMFRUCTUM omni[um] et singulor[um] bonor[um] meor[um]
+mobilium et immobilium ubicu[m]q[ue] iacentium … durante uita sua uiduali et casta, et donec
+steterit in domo mea cu[m] h[e]r[ed]ibus meis i[n]frascriptis.   [s2, medium]
+[★ NOME DELLA MOGLIE conteso ai pixel: s2 legge «Francische» (Francesca); s3 legge «d[omi]na
+Ioh[ann]a, filia q[uon]d[am] d[omi]ni Ioh[ann]is de Proviniis[?]»; l'anagrafe interna del progetto
+(c.1/p695) dà la moglie «Iohannina/Giovannina». «Francesca» coincide col nome di una FIGLIA (c.4) →
+probabile scambio confabulatorio; si PREFERISCE «Iohanna[?]», ma il dato resta [?]. Notaio della
+dote «Ioha[n]nes Petrus de Carcano»: solo s2, [?]. «usumfructum … uita uiduali et casta» =
+usufrutto vedovile: 1/5 (s2), formula tipica.]
+
+[C) Variante s3/s5 (3ª persona, alternativa dell'ensemble allo STESSO specchio — NON conciliabile
+   con A/B; riportata per onestà, da adjudicare da un paleografo):]
+· [s3, medium poi in loop] condizione sul figlio presbitero: «si dict[us] d[ominus] p[res]b[ite]r
+  Ioh[ann]es ad officiu[m] p[re]sb[ite]ratus no[n] ascenderit … sit p[ri]uat[us] et cadat ab
+  om[n]ib[us] … sibi legatis»; poi ISTITUZIONE D'EREDE «suos h[e]r[ed]es univ[er]sales instituit …
+  d[ominum] Ioh[annem] Iacobu[m] et d[ominum] Ioh[annem] Baptista[m], fr[atr]es et filios suos
+  l[egi]t[im]os et n[atur]ales», con sostituzione del «d[ominus] p[res]b[ite]r Ioha[n]nes filius
+  suus» e poi dei «filios q[uon]d[am] d[omi]ni Ioh[ann]is de Fagnano fr[atr]is sui». [nomi tutti [?]]
+· [s5, 1/5 poi in loop] provisione rimessa «in arbitrio d[omi]ni p[res]b[ite]ri Ioh[ann]is eius
+  filij»; legati pii «p[ro] a[n]i[m]a sua et suor[um] mortuor[um]» agli Ordini mendicanti — «a
+  s[an]cto Fran[cis]co, s[an]cto D[omi]nico, s[an]cto Augustino et s[an]cto Ambrosio». [tutto [?]]
+
+[Nessun elenco di testimoni né sottoscrizione notarile in questa pagina.]
+[il testo prosegue a c. 14 (p708), che è il DOCKET/endorsement della copia.]

@@ -1,0 +1,64 @@
+[Testamento — c. 5 (di 14). Continua l'atto aperto a c. 3 (p697) / c. 4 (p698): disposizioni PIE
+del testamento di AMBROGIO FAGNANI (chiesa di S. Giacomo di Gerenzano). ⚠⚠ PAGINA A BASSA
+AFFIDABILITÀ (200 ppi, inchiostro sbiadito, forte trasparenza dal verso). Le 5 letture NON
+convergono su un testo unico: s1–s4 concordano SOLO sulla formula d'apertura delle clausole —
+(4/5) «Parimenti il testatore lasciò e legò, a titolo di legato e per l'anima sua e dei suoi
+defunti …» — ma divergono su importi, scopo e feste, e ciascuna degenera in loop; s5 legge
+tutt'altro (supplementi di dote alle figlie). Quanto segue riporta le clausole-candidate di ogni
+lettura, ciascuna con la sua (scarsa) concordanza [n/5] / [solo sN]; NON è una sequenza continua
+accertata. Traduzione tentativa, da verificare da un paleografo.]
+
+── Clausola-candidata A — COMMISSIONE dell'ANCONA (pala d'altare) per S. Giacomo ──
+[solo s1 (1/5); MA il contenuto è corroborato da fonti storico-artistiche esterne (Ambrogio lasciò
+di far completare l'ancona di S. Giacomo). La cifra di £100 e il nome del fratello NON sono
+verificati ai pixel:]
+«Parimenti il testatore lasciò e legò, a titolo di legato (iure legati) e per l'anima sua e dei suoi
+defunti, alla chiesa di San Giacomo posta nel territorio di Gerenzano — nella quale il testatore ha
+scelto la propria sepoltura come sopra — quelle cento[?] lire imperiali che egli deve avere dal
+signor Giovanni Pietro de Fagnano[?], suo fratello, a saldo (pro resto) della dote della signora
+[…] sua moglie; e queste cento[?] lire imperiali il testatore le legò e lasciò a detta chiesa per
+acquistare e far realizzare un'ancona (pala d'altare) per la stessa chiesa.»
+
+── Clausola-candidata B — legati per MESSE CANTATE nelle feste dei santi ──
+[solo s2 (1/5), non confermato dalle altre letture; degenerata in loop:]
+«Parimenti il testatore lasciò e legò, a titolo di legato e per l'anima sua e dei suoi defunti, in
+perpetuo, ogni anno, cioè nella festa di San Giacomo[?], per preparare e celebrare una messa cantata
+nella chiesa di San Giacomo di Gerenzano, due lire e dieci[?] soldi imperiali, da darsi e pagarsi
+come sopra dai suoi eredi infrascritti al sacerdote che celebrerà detta messa cantata in detta
+chiesa.» [clausole analoghe per le feste di S. Giovanni Battista / S. Pietro / S. Paolo — solo s2,
+feste da verificare]
+
+── Clausola-candidata C — legati per UFFICI («offitia parva») nelle feste ──
+[solo s4 (1/5); feste e importi non concordati:]
+«Parimenti … in perpetuo, ogni anno, sei[?] / cinque[?] lire imperiali per un piccolo ufficio da
+celebrare in detta chiesa di San Giacomo, nel giorno di San Giacomo del mese di luglio …» [clausole
+analoghe per S. Giovanni Battista (giugno), S. Ambrogio (dicembre), S. Pietro, S. Paolo, S. Giuseppe
+(marzo) — solo s4]
+
+── Clausola-candidata D — legato di 6 lire per un sacerdote celebrante ──
+[solo s3 (1/5), degenerata in loop:]
+«Parimenti … in perpetuo, ogni anno, sei[?] lire imperiali per un frate/sacerdote che celebri in
+detta chiesa di San Giacomo; e nel caso in cui non si celebri in detta chiesa di San Giacomo, detto
+legato sia e s'intenda per la stessa chiesa di San Giacomo e per la fabbrica (fabbriceria) di detta
+chiesa.»
+
+── LETTURA DIVERGENTE — s5 (1/5): NON legati pii ma supplementi di DOTE alle FIGLIE ──
+[Contenuto affine al c. 4 (p698): può appartenere a una clausola adiacente della stessa pagina o
+essere una contaminazione dal contesto; NON confermato ai pixel come testo di questa pagina. Tutti
+i nomi/cognomi/cifre sono da verificare:]
+«Parimenti, come da promessa fatta dal testatore al signor prete Giovanni suo figlio prima della
+sua ordinazione, lascia allo stesso prete Giovanni, per il suo vitto e vestito, tutti i frutti,
+redditi e proventi di tutti i beni del testatore siti nel territorio di Gerenzano …, come nella
+stessa promessa fatta dal testatore nelle mani del signor prete Giovanni de Fagnano, preposito
+della chiesa di S. Stefano di Appiano[?], alla quale si abbia riferimento.
+Parimenti lascia alla signora Caterina[?] sua figlia e moglie del signor Giovanni de Bosiis[?]
+cinquanta[?] lire imperiali oltre la sua dote, come nell'istrumento dotale al quale si abbia
+riferimento.
+Parimenti … alla signora Margherita[?] … moglie del signor Antonio de Magnis[?] …
+Parimenti … alla signora Isabella[?] … moglie del signor Giovanni de Crivellis[?] …
+Parimenti … alla signora Lucrezia[?] … Parimenti … alla signora Beatrice[?] … Parimenti … alla
+signora Francesca[?] … Parimenti … alla signora Lucia[?] … [ciascuna «cinquanta lire imperiali
+oltre la sua dote»].»
+
+[N.B. — NESSUNA sottoscrizione notarile né lista di testimoni in questa pagina.]
+[Il testo prosegue a c. 6 (p700), che APRE UN NUOVO ATTO (nuova invocazione + datazione).]

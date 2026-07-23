@@ -1,0 +1,45 @@
+[Testamento — c. 8 (di 14). Testatore = con ogni probabilità AMBROGIO FAGNANI: il «testator»
+il cui erede/legatario principale è il figlio prete GIOVANNI — «d[omi]nus Ioh[ann]es h[ere]s
+uniuersalis ... p[re]fati testatoris d[omi]ni p[at]ris sui» (l'erede Giovanni e "il suo signor
+padre" testatore, s1) — e che dispone dell'ANCONA e degli affreschi della chiesa di S. Giacomo
+(che Ambrogio ampliò/dotò). Latino notarile. Nessun confine di carta e NESSUNA sottoscrizione
+notarile in questa pagina: prosegue una clausola dal foglio precedente (c.7).
+⚠ 200 ppi — affidabilità BASSA a livello di parola. 3/5 letture DEGENERANO in loop (s1 dopo ~11
+righe; s3 quasi tutta «[...]»; s4 dopo ~7 righe → «p[ro]ut supra» ×N); coerenti solo s2 ed s5,
+e comunque il TESTO STESSO è una catena di clausole parallele sul completamento dell'ancona.
+La SOSTANZA converge però tra le letture utili E coincide con fonti d'arte pubblicate su S.
+Giacomo di Gerenzano E coi pixel — verificato all'immagine: «beatissime V[ir]ginis Marie»,
+«s[an]c[t]i Ioh[ann]is baptiste», «capella». Nomi/cifre esatte: da paleografo.]
+
+[Contenuto: commissione per COMPLETARE (a) l'ANCONA / pala d'altare con la figura della
+beatissima Vergine Maria «in medio» dei Ss. Pietro e Paolo, Giacomo e Giovanni Battista, per la
+cappella di S. Giacomo; e (b) i QUATTRO EVANGELISTI e i quattro DOTTORI della Chiesa (affreschi),
+con pagamento di «sol[idi] octo» / «sol[idi] decem» per ciascuna figura, il tutto da eseguirsi
+nella chiesa di S. Giacomo, come parrà all'erede prete Giovanni. Coincide con la pala (Madonna
+col Bambino + Ss. Pietro, Paolo, Giacomo, Giovanni Battista) e col programma d'affreschi
+documentati per S. Giacomo di Gerenzano.]
+
+[Ricostruzione tentativa — [n/5] = n letture su 5 concordi; [solo sN] = una sola lettura:]
+
+reponsis d[omi]ni [p[re]sb[ite]ri][?] Ioh[ann]is h[ere]dis uniu[er]salis p[re]fati [2/5 s1,s4]
+testatoris d[omi]ni p[at]ris sui p[ro] una ancona [«ancona» 3/5 s1,s2,s5]
+[…] h[ere]dibus p[re]no[m]i[n]atis ip[s]ius testatoris [2/5 s2,s5]
+rep[re]sentanda in eam figuram beatissime V[ir]ginis [verificato ai pixel]
+Marie in medio s[an]c[t]orum Petri et Pauli s[an]c[t]i Iacobi [3/5 s1,s2,s5]
+et s[an]c[t]i Ioh[ann]is [ap[osto]li ac p[re]cursoris / baptiste][?] [«baptiste» 2/5 s2,s5; verif. pixel]
+p[ro] p[re]dicta capella s[an]c[t]i Iacobi [«capella S. Iacobi» 4/5 s1,s2,s4,s5; verif. pixel]
+ubi p[re]fatus d[omi]nus Ioh[ann]es h[ere]s [p[re]fati testatoris] eam uoluerit rep[re]sentari [solo s1]
+et p[ro]ut eidem d[omi]no Ioh[ann]i h[ere]di p[re]fato uidebitur et placuerit [solo s1]
+[…]
+[et p[ro]] euangelistis quatuor de[n]t[ur] sol[idi] octo p[ro] quolibet eor[um] [solo s2]
+et quatuor doctorib[us] s[an]c[t]e matris eccl[es]ie [solo s5; coerente col programma d'affreschi documentato]
+[…] de[n]t[ur] sol[idi] decem p[ro] quolibet eor[um] [solo s2]
+[…] fiat in d[ic]ta eccl[es]ia s[an]c[t]i Iacobi p[re]d[ic]ti d[ic]to t[em]p[or]e uel citius si fieri pot[er]it [solo s2]
+[…]
+
+[Da qui in poi TUTTE le letture DEGENERANO in ripetizione (s1: «p[ro]ut eidem d[omi]no Ioh[ann]i
+h[ere]di p[re]fato uidebitur / et placuerit et hoc in eam figuram et» ×N; s4: «p[ro]ut supra» ×N;
+s3: «[...]» ×N; s5: «p[ro]ut in d[ic]to testam[en]to» ×N). Il segmento reale è una catena di
+clausole parallele sul completamento dell'ancona e degli affreschi (Evangelisti + Dottori),
+non recuperabile parola per parola a 200 ppi. Le cifre esatte (sol. 8 / sol. 10) e l'ordine
+delle figure restano da verificare da un paleografo.]

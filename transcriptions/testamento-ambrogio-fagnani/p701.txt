@@ -1,0 +1,66 @@
+[Testamento — c. 7 (di 14). Continua l'atto di c. 6 (p700): disposizioni di AMBROGIO FAGNANI (1512).
+⚠⚠ PAGINA A BASSISSIMA AFFIDABILITÀ (200 ppi; scrittura fittissima, ~34 righe, molto sbiadita,
+trasparenza dal verso). Le 5 letture NON convergono su un'unica sequenza di clausole: s1 degenera
+in loop (si conserva solo il frammento iniziale); s3 e s5 degenerano in loop su clausole DIVERSE;
+s2 e s4 danno clausole ancora diverse. Ai pixel si CONFERMANO alcuni ancoraggi (sotto), ma la
+successione e i dettagli restano incerti. Ogni clausola è data come CANDIDATA, con [n/5] / [solo
+sN]; NON è una sequenza continua accertata. Ricostruzione tentativa, da verificare da un paleografo.]
+
+── ANCORAGGI (confermati ai pixel e/o da più letture) ──
+· «presbiter Allexander» — un SACERDOTE legatario/esecutore [3/5: s2, s3, s5; CONFERMATO ai pixel a
+  fine r.1 e nella fascia centrale]. Nome NUOVO, non presente nel glossario.
+· «per me notarium infrascriptum» — auto-riferimento del NOTAIO estensore, SENZA nome [2/5: s4, s5].
+· ridatazione «anno … millesimo quingentesimo duodecimo, indictione decimaquinta, die lune decimo
+  octavo mensis octobris» (= 1512, la data del testamento) [solo s5, ma coerente con c. 6].
+
+── r.1 — apertura di clausola (CONFERMATA ai pixel: «presbiter Allexander» a fine riga) ──
+Et hoc cum condit[i]o[n]e q[uod] ip[s]i d[omi]ni p[re]s[bi]t[er] Allexander [3/5] …
+
+── Clausola-candidata A — ELEMOSINA di frumento ai poveri nella festa di S. Giacomo ──
+[s2 (1/5); coerente coi pixel di r.1–2 («… dare debeant … frumentum»). Nomi/cifre da verificare:]
+Et hoc cum condit[i]o[n]e q[uod] ip[s]i d[omi]ni p[re]s[bi]t[er] Allexander et [d[omi]nus nobilis]
+Ioh[ann]es Iacobus[?] et eor[um] legiptimi descen[dentes] masculi ex masculis … dare et tradere …
+paup[er]ib[us] X[rist]i quamdam elemosinam in perpetuum, singulo anno, videlicet in festo S[ancti]
+Iacobi de mense Iulij bonum frumentum ad mensuram Mediolani modia duo; … et in casu quo … nollent
+seu recusarent dare … tunc … per d[omi]nos scolares scole S[ancti] Iacobi de Geren[zan]o … usque ad
+concurrentem quantitatem dictor[um] duor[um] modior[um] frumenti et non ultra.
+
+── Clausola-candidata B — facoltà di ESIGERE i CREDITI del testatore e del padre Giovanni ──
+[s3 (1/5, poi in loop); «reddere / rationem» confermato ai pixel nella fascia centrale:]
+Et hoc cum condit[i]o[n]e q[uod] ip[s]i d[omi]ni p[re]s[bi]t[er] Allexander et d[omi]n[u]s
+Ioh[ann]es, fratres dicti d[omi]ni testatoris, possint et valeant … exigere et recup[er]are a
+quibuscu[m]q[ue] p[er]sonis debitoribus dicti d[omi]ni testatoris et p[re]fati d[omi]ni Ioh[ann]is
+eor[um] p[at]ris om[n]ia et singula debita et credita …, et de ip[s]is … nullam rationem reddere
+teneantur ip[s]is d[omi]nis h[e]r[ed]ibus p[re]fati d[omi]ni testatoris nec alicui alteri p[er]sone.
+[NB: qui i fratelli del testatore sono presb. Alessandro e Giovanni, figli di un Giovanni — in
+TENSIONE con l'identificazione del testatore come Ambrogio (a c. 6 figlio del fu Giovanni): da
+chiarire; forse atto/redazione di altro membro Fagnani, oppure lettura confusa.]
+
+── Clausola-candidata C — legato alla chiesa di S. Giacomo / al presb. Alessandro, con 100 messe e una pezza di terra ──
+[s5 (1/5, poi in loop); «missas centum» e confini illeggibili:]
+Item reliquit d[ic]te eccl[es]ie s[ancti] Iacobi et pro ea d[ic]to p[res]b[ite]ro Alexandro, pro
+eius victu et vestitu ut s[upr]a, omnes et singulas alias suas res et bona mobilia et immobilia,
+iura et actiones, in d[ic]to loco de Gerenzano et eius t[er]ritorio …, cum hac t[ame]n conditione et
+onere q[uod] d[ic]tus p[res]b[ite]r Alexander teneatur et debeat singulo anno celebrare seu
+celebrari facere in d[ic]ta eccl[es]ia s[ancti] Iacobi missas centum[?] pro a[n]i[m]a d[ic]ti
+testatoris et suorum defunctorum …; item … illam petiam t[er]re aratorie et vitate iacentem in
+t[er]ritorio d[ic]ti loci de Gerenzano, ubi dicitur ad […], cui coh[er]et a mane […], a meridie […],
+a sera […], a monte […].
+
+── Clausola-candidata D — legato usufruttuario alla MOGLIE (Margarita?) e alla FIGLIA Caterina ──
+[s4 (1/5); nomi da verificare; contiene l'auto-riferimento del notaio e all'ancona:]
+Et hoc unq[uam][?] q[uod] d[ic]tus h[ere]s d[ic]ti d[omi]ni test[atoris] sit teneatur ad d[ic]tam
+anconam fieri faciend[am] ut s[upr]a, p[ro]ut … app[ar]et per inst[rumentu]m traditu[m] et rogat[um]
+per me not[arium] infrascriptum … [2/5 il rimando al notaio]
+It[em] reliquit et legavit d[ic]tus d[omi]nus test[ator] d[omi]ne Margarite[?] de […] eius uxori
+dilecte om[n]ia et singula bona mobilia et inmobilia, iura et actiones sibi d[omi]no test[atori]
+p[er]tinentia … in t[er]ritorio de Gerenzano …, in vita sua tantum, et post eius obitum d[ic]ta
+bona revertantur ad d[ic]tum h[ere]dem suum … et hoc pro dote sua et pro eius alimentis et
+vestimentis …
+It[em] reliquit et legavit d[ic]tus d[omi]nus test[ator] d[omi]ne Caterine[?] eius filie dilecte et
+uxori d[omi]ni Iohannis de […] om[n]ia et singula bona … [analoga clausola usufruttuaria].
+[NB: «Margarita» moglie è in tensione con c. 6, dove la moglie non è nominata.]
+
+[N.B. — NESSUNA sottoscrizione notarile CON NOME né lista di testimoni in questa pagina: il notaio
+compare solo come «me infrascriptum» (rimando). Sottoscrizione e testes attesi in un foglio
+successivo (c. 8+).]

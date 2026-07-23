@@ -1,0 +1,64 @@
+[Testamento di Ambrogio Fagnani — c. 12 (di 14). ⚠ 200 ppi. QUESTA IMMAGINE È UNA DOPPIA PAGINA
+(spread, ~6700 px): DUE carte affiancate, entrambe fittamente scritte. Delle 5 letture: s1 dà un
+testo coerente per la CARTA SINISTRA (obblighi degli eredi + fabbrica di S. Giacomo); s2 dà un testo
+coerente per la CARTA DESTRA (sostituzione fedecommissaria); s3 corrobora i fratelli-eredi e cita il
+notaio; s4 illeggibile; s5 in loop. Le singole PAROLE non sono verificabili ai pixel a 200 ppi, MA
+il contenuto della carta sinistra COINCIDE alla lettera con fonti storico-artistiche pubblicate
+(ancona + affreschi + campanile di S. Giacomo, pittore Giovanni Agostino da Lodi): confidenza ALTA
+sulla SOSTANZA della carta sinistra; MISTA sulla destra. Da verificare da un paleografo.]
+
+═══ CARTA SINISTRA — obblighi degli eredi / fabbrica di S. Giacomo (da s1, 1/5, corroborata da fonti
+    esterne) ═══
+… [gli eredi] in bonis p[re]dictis … o[mn]ia et si[n]g[u]la onera et legata p[er] ip[su]m
+t[esta]tore[m] in h[oc] s[u]o t[esta]m[en]to relicta … p[er]soluant[ur] et adimpleant[ur].
+Item reliquit, instituit et legauit d[i]c[t]e sue h[e]r[ed]itati et d[i]c[t]is suis h[e]r[ed]ib[us]
+… o[mn]ia et si[n]g[u]la sua bona mobilia et immobilia, p[re]sentia et futura, iura, no[m]i[n]a et
+actiones q[ue]cu[m]q[ue] … et p[re]cipue in t[er]ritorio de Gere[n]zano et in eius p[er]tine[n]tijs,
+et in t[er]ritorio de Cislago … de Turate … de Uboldo … de Saronno … de Mozzate … de Legnano …
+de Busto Arsizio et in eius p[er]tine[n]tijs [enumerazione dei territori: 1/5 (s1); toponimi tutti
+coerenti col glossario del registro].
+Item uoluit et ma[n]dauit d[i]c[t]us t[esta]tor q[uod] d[i]c[t]i sui h[e]r[ed]es … teneant[ur] et
+debea[n]t p[er]soluere et adimplere o[mn]ia … onera et legata … et p[re]cipue q[uod] teneant[ur]
+et debea[n]t p[er]ficere et adimplere ANCONAM in eccl[es]ia s[an]c[t]i Iacobi de Gere[n]zano p[er]
+ip[su]m t[esta]tore[m] i[n]cepta[m]; et p[re]cipue q[uod] in ea depi[n]gant[ur] et fia[n]t i[m]agines
+s[an]c[t]e Marie u[ir]gi[n]is cu[m] filio in brachiis, et s[an]c[t]or[um] Petri, Pauli, Iacobi et
+Ioha[n]nis Baptiste, et cui[us]da[m] a[n]geli cu[m] i[n]strume[n]tis musicis; et q[uod] in uolta
+p[re]sbit[er]ij d[i]c[t]e eccl[es]ie depi[n]gant[ur] et fia[n]t i[m]agines q[u]atuor doctor[um]
+eccl[es]ie et q[u]atuor eua[n]gelistar[um], et Dei Patris in medio; et q[uod] d[i]c[t]a ancona et
+d[i]c[t]e i[m]agines fia[n]t et depi[n]gant[ur] p[er] magistru[m] IOHA[N]NEM AUGUSTINU[M] DE LAUDE,
+p[ro]ut in co[n]ue[n]t[i]o[n]e i[n]t[er] ip[su]m t[esta]tore[m] et d[i]c[t]u[m] magistru[m] …
+facta co[n]tinet[ur]; … Et q[uod] d[i]c[t]i sui h[e]r[ed]es teneant[ur] … p[er]ficere et adimplere
+d[i]c[t]a[m] eccl[es]ia[m] s[an]c[t]i Iacobi et eius CA[M]PANILE, p[ro]ut p[er] ip[su]m t[esta]tore[m]
+i[n]cepta su[n]t et p[ro]ut in co[n]ue[n]t[i]o[n]e i[n]t[er] ip[su]m t[esta]tore[m] et magistros
+muratores facta co[n]tinet[ur] …
+[★ Tutto il programma — ancona (Vergine col Bambino + Ss. Pietro, Paolo, Giacomo, Giovanni Battista
++ un angelo musicante), affreschi della volta del presbiterio (4 Dottori della Chiesa + 4
+Evangelisti + Dio Padre al centro), pittore GIOVANNI AGOSTINO DA LODI (magister Iohannes Augustinus
+de Laude), completamento della chiesa e del CAMPANILE di S. Giacomo — è CONFERMATO da fonti pubblicate
+(Biscottini & Crippa 1989; v. context.md). Alta confidenza sulla sostanza pur essendo s1 l'unica
+lettura non degenerata; le forme esatte restano da verificare ai pixel.]
+
+═══ CARTA DESTRA — sostituzione fedecommissaria (da s2, medium, 1–2/5) ═══
+… p[er] p[re]dictu[m] d[omi]n[u]m testatore[m] ut s[upr]a relictis, in bonis p[re]dictis obligatis;
+et ip[s]is relictis d[i]c[t]is filiab[us] p[re]fati d[omi]ni testatoris, obeuntib[us] sine filiis
+l[egi]timis et n[atura]lib[us] ex eis descendentib[us], tunc et in eo casu ip[s]e d[omi]n[u]s
+testator reliquit et legauit ip[s]a bona … p[re]fato d[omi]no p[res]b[ite]ro IOHA[N]NI eius filio
+et p[re]fatis d[omi]nis IACOBO et d[omi]no BAPTISTE, nepotib[us] suis p[re]dictis, et eor[um] filiis
+l[egi]timis et n[atura]lib[us] … p[er] equales portiones et p[ar]tes;
+et in casu quo p[re]dicti d[omi]ni Iacobus et d[omi]n[u]s Baptista obirent sine filiis … tunc … ip[s]e
+d[omi]n[u]s testator reliquit et legauit ip[s]a bona … p[re]fato d[omi]no p[res]b[ite]ro Ioha[n]ni
+eius filio …; et in casu quo p[re]dictus d[omi]n[u]s p[res]b[ite]r Ioha[n]nes obiret sine filiis …
+tunc … reliquit … ip[s]a bona … p[re]fatis d[omi]nis Iacobo et d[omi]no Baptiste nepotib[us] suis …
+[la cascata prosegue con le medesime formule di reciproca sostituzione, poi s2 degenera in
+ripetizione.]
+[Nomi dei sostituti — presb. IOHANNES (figlio), IACOBUS e BAPTISTA (nipoti/nepotes): s2 medium
+(1–2/5). s3 conferma indipendentemente i due fratelli-eredi «Ioh[ann]es et … Iacobus … heredes …
+q[uon]d[am] d[omi]ni Ambrosii eor[um] patris». TENERE [?] su ogni nome.]
+
+[★ REPERTO NOTARILE (da s3, 1/5, MA corroborato dal docket di c.14/p708 s3): il testamento risulta
+«rogatu[m] p[er] … d[omi]n[u]m Ioh[ann]em de […la Porta?…] not[arium] Med[iolanensem]» — il NOTAIO
+originale sarebbe un «d[ominus] Iohannes de [la Porta?], notaio di Milano» (casato illeggibile/[?];
+anno e giorno […]). Non è una sottoscrizione autografa in questa pagina, ma una CITAZIONE del rogito.]
+[nel margine della carta destra: annotazioni/indici di mano posteriore («…Faruffini…»), non
+trascritte.]
+[il testo prosegue a c. 13 (p707).]

@@ -1,0 +1,47 @@
+[Testamento(?) Ambrogio Fagnani — c. 3 (di 14). ⚠⚠ PAGINA A BASSA AFFIDABILITÀ. A 200 ppi
+l'ensemble di 5 letture NON ha raggiunto un consenso: 3 letture su 5 sono degenerate in loop
+ripetitivi; solo s1 ha prodotto un protocollo coerente, ma senza corroborazione (1/5). Ai pixel si
+vede una nuova clausola di datazione in alto (l'anno «quingentesimo duo[decimo]») — coerente con
+l'APERTURA DI UN NUOVO ATTO: il volume «exemplum» raccoglie evidentemente PIÙ atti di Ambrogio
+Fagnani (qui pare un SECONDO testamento). Quanto segue è una RICOSTRUZIONE TENTATIVA, da verificare
+da un paleografo; i punti chiave sono marcati con la loro (scarsa) concordanza [n/5] e [solo sN].]
+
+[in alto, al centro: monogramma «yhs» (IHS)]
+
+[SECONDO TESTAMENTO(?) — apertura, solo s1 (1/5), non confermata ai pixel oltre la datazione:]
+In no[m]i[n]e d[omi]ni ame[n]. Anno a Nativitate eiusde[m] d[omi]ni
+Millesimo quingentesimo duodecimo, Indictione quintadecima,
+die lune decimo octavo mensis octobris.
+Cum nil sit certius morte et nil incertius hora mortis,
+hinc est q[uod] nobilis vir d[omi]nus Ambrosius de Fagnano
+dictus Faruffinus, filius q[uon]d[am] d[omi]ni Iohannis, p[orte] V[ercelline] p[aroc]hie s[ancti] Victoris[?]
+ad corpus Mediolani[?], sanus per Dei gratiam mente,
+sensu, intellectu et loquela, licet corpore languens,
+nolens intestatus decedere sed de bonis suis
+disponere, per hoc suum presens nuncupativum[?]
+testamentum sine scriptis, quod de iure civili
+dicitur testamentum in extremis[?].
+[N.B.: a differenza di c.1 (dove il testatore è domiciliato a Gerenzano e fa testamento scritto),
+qui s1 legge un domicilio milanese (Porta Vercellina, par. S. Vittore al Corpo) e un testamento
+NUNCUPATIVO «in extremis» — dettagli SINGLE-READ, non verificati ai pixel.]
+
+[Legati pii — solo s1 (1/5):]
+In primis quidem animam suam altissimo creatori suo humiliter et devote recomendavit.
+Corpus vero suum sepeliri voluit in ecclesia sancti Iacobi de Gerenzano, plebis Appiani,
+d[iocesis] M[edio]l[anensis], in sepulcro per eum ibidem constructo.
+Item iudicavit et legavit, amore Dei et pro anima sua, ecclesie maiori Mediolani (Duomo) libras decem imp[eriales];
+Item … hospitali magno Mediolani (Ospedale Maggiore) libras decem imp[eriales];
+Item … scole sancte Marie de Gerenzano libras quinque imp[eriales];
+Item … ecclesie sancti Petri de Gerenzano libras quinque imp[eriales]  [S. Pietro: 2/5];
+Item … ecclesie sancti Iacobi de Gerenzano libras quinque imp[eriales].
+
+[Frammenti da altre letture (ciascuno 1/5, non corroborati):]
+· [s2] legato «pro anima ipsius testatoris et pro anima d[omi]ni Iohannis eius patris et d[omi]ne
+  Iacobine[?] eius matris» — nomina il PADRE Giovanni e la MADRE **Iacobina** del testatore.
+· [s3] al figlio presb. Iohannes lascia la casa da lui abitata a Gerenzano con i mobili, ECCETTO
+  frumento/biade/legumi, vasi vinari, fieni e strami, animali bovini ed equini, e tutti gli
+  strumenti e scritture del testatore; alle figlie (Lucretia, Beatrix, Francisca, Lucia…) i beni di
+  Gerenzano.
+· [s5] alla chiesa di S. Pietro di Gerenzano «perticas quatuor terre arabilis» site nel territorio,
+  «ubi dicitur a la …[?]».
+[il testo prosegue a c. 4 (p698).]

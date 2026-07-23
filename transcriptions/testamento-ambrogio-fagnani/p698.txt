@@ -1,0 +1,30 @@
+[Testamento/atto — c. 4 (di 14). ⚠ 200 ppi, affidabilità medio-bassa: 3/5 letture degenerano in
+loop; le due coerenti (s3, s4) sono comunque ripetitive perché IL TESTO STESSO è una CATENA di
+clausole parallele. Ricostruzione tentativa; da verificare da un paleografo.
+★ NOTA PROSOPOGRAFICA: qui le donne (Isabella, Lucrezia, Beatrice, Francesca, Lucia, e la
+«presbitera Margarita») sono chiamate SORELLE («soror») del testatore — cioè il testatore di questo
+atto NON è Ambrogio ma un suo FIGLIO (verosimilmente il figlio presbitero Giovanni, fratello di
+quelle donne, che nel c.1 sono le figlie di Ambrogio). Il volume «exemplum» raccoglie dunque i
+testamenti di PIÙ membri della famiglia Fagnani, non solo di Ambrogio.]
+
+[Struttura: serie di ASSOLUZIONI/liberazioni «ab omni onere» a favore di ciascuna sorella, ciascuna
+modellata «prout in proxima precedenti absolutione facta dictae dominae [la precedente]». Testo tipo
+(da s3, 1–2/5):]
+
+… d[ic]tam sororem d[omi]nam Isabellam absolutam per d[ic]tum d[omi]n[u]m
+testatorem ab omni onere, p[ro]ut in p[ro]x[im]a p[re]cedenti absolutione
+per d[ic]tum testatorem facta d[ic]te d[omi]ne presbitere Margarite[?], sorori d[ic]ti d[omi]ni
+testatoris, cui presbitere Margarite d[ic]tus d[omi]nus testator p[re]cepit et p[re]cipit …
+Item, in omnibus et per omnia, reliquit d[ic]tus d[omi]nus testator d[omi]ne Lucretie eius sorori,
+absolutam ab omni onere, p[ro]ut in p[ro]x[im]a p[re]cedenti absolutione facta d[ic]te d[omi]ne
+Isabelle sorori d[ic]ti d[omi]ni testatoris …
+Item … d[omi]ne Beatrici eius sorori, absolutam ab omni onere, p[ro]ut … facta d[ic]te d[omi]ne
+Lucretie sorori …
+Item … d[omi]ne Francische eius sorori … p[ro]ut … facta d[ic]te d[omi]ne Beatrici sorori …
+Item … d[omi]ne Lucie eius sorori … p[ro]ut … facta d[ic]te d[omi]ne Francische sorori …
+
+[Cioè: il testatore libera «da ogni onere» le sorelle Isabella, Lucrezia, Beatrice, Francesca e
+Lucia (e nomina la sorella monaca/presbitera Margarita), ciascuna con formula parallela alla
+precedente. Nomi delle sorelle = i nomi delle figlie di Ambrogio (c.1). Cifre/dettagli non
+recuperabili ai pixel a questa risoluzione.]
+[il testo prosegue a c. 5 (p699).]

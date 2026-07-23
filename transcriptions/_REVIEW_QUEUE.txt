@@ -533,3 +533,55 @@ p669	[06-49] provost "Paolo M. Gari[?]" (from 1881) — surname not in glossary,
 p681-p685	[06-49] suppression-law date inconsistency "15 Ag. 1867" (p681/p683) vs "25 Ag. 1867" (p682) — VERIFY; uncertain surnames: notary Olasi/di Novello (p681), canon Orompigo (p681), testator Guidici Matteo (p683, NOT Cattaneo), surveyor Ronfoldi (p684), proprietor Farè (p685), Massi/Mossi + buyer Franchi Angelo (p687).
 p670-p673	[06-49] ★ CADASTRAL ESTIMO LEDGER (47 parcels, Gerenzano/Turate/Cislago/Rescaldina), transcribed BEST-EFFORT at ~2MP: numeric estimo/coerenze cells need a perito. Parcel identity + denominazioni reliable; figures flagged.
 p674-p676	[06-49] affittuari rent-distribution + coerenze tables, best-effort figures. p676 coerenze names the "legato Zoni di Messe a saltem festis".
+# ---- Capture 3 · Testamento Ambrogio Fagnani (200 ppi ceiling; 5-read Gemini ensemble method) ----
+# METHOD NOTE: at 200 ppi a SINGLE Gemini read confabulates the notarial formula. Fix = 5 reads
+# (5 framings) + per-element cross-read agreement [n/5] + pixel adjudication + web/glossary prior.
+# The ensemble CAUGHT a confabulation in the first p695 pass (see below). Reads banked p695-p708.
+p695	[testament c.1] ★ REDONE. DATE = 1512 (duodecimo, 4/5) NOT 1517 (was a single-read error;
+	corroborated by indiction XV + published Gerenzano histories). Recovered WIFE **domina Iohannina
+	(Giovannina)** (uxor 3/5) — omitted in the first pass. Son **presb. Iohannes** + 7 daughters
+	**Catherina, Margarita, Isabella, Lucretia, Beatrix, Francisca, Lucia** (names 3/5). STRUCTURE
+	CONTESTED 2-2: heredes universales equis portionibus (s4,s5) vs 100-lire dowry legacies per
+	daughter (s1,s3 "pro dote") — pixels too faded to decide. Burial S. Iacobi 5/5. Scola S. Maria
+	L.5 (3/5); fabbrica L.10 (2/5, uncertain). Notary/witnesses NOT on c.1.
+p696	[testament c.2] ★ CHURCH-COMPLETION BEQUEST (web-confirmed): retabulum/ancona deaurata for the
+	high altar + imago S. Mariae + finish the CAMPANILE with TWO BELLS (campane 3/5, campanile 2/5,
+	ancona 2/5, S. Iacobi 4/5) — matches published sources (Ambrogio enlarged S. Giacomo, raised the
+	bell tower; altarpiece attrib. Giovanni Agostino da Lodi). Son presb. Iohannes token legacy (a
+	suit) in lieu of his legitima, 2nd burial plot "ad clusum" bounded by **Ludovico & Giovanni de
+	Castiglione** — ALL s4-only (1/5), NOT pixel-verified → treat as tentative.
+# TODO: p697-p708 (c.3-c.14) — same ensemble method; reads banked. Notary name + witness list
+# (high value, web couldn't supply) are still to be located in the later charters. NOT yet done.
+p697	[testament c.3] ★★ STRUCTURAL: this volume holds MORE THAN ONE testament of Ambrogio Fagnani.
+	c.3 appears to OPEN A SECOND (nuncupative/"in extremis") will — pixels show a fresh dating clause
+	(1512 again); s1 reads a MILAN domicile (Porta Vercellina, par. S. Vittore al Corpo) + pious
+	legacies to the Milan Duomo (L.10) + Ospedale Maggiore (L.10) + scola S.Maria/S.Pietro/S.Giacomo
+	di Gerenzano (L.5 each), burial in the sepulchre he built at S.Giacomo. ⚠ LOW CONFIDENCE: 3/5
+	reads LOOPED (degenerate), only s1 coherent (1/5), not pixel-confirmed beyond the date. Single-read
+	fragments: mother **Iacobina** (s2); son gets the Gerenzano house w/ movables minus grain/wine/
+	animals/records, daughters get Gerenzano bona (s3); 4 pertiche arable to S.Pietro (s5). NEEDS a
+	paleographer — this page is at/below what a 5-read frontier ensemble recovers at 200 ppi.
+# CEILING FINDING: the 5-read ensemble recovers well where reads CONVERGE + a web/formula anchor
+# exists (p695 date/wife, p696 church bequest); it DEGENERATES (loops, 1/5) on the faintest pages
+# (p697). Expect p698-p708 to be a mix; the notary name + witnesses still to be located.
+p699-p708 [testament c.5-c.14] — reconciled by 3 image-grounded sub-agents under the 5-read ENSEMBLE
+	rubric (discard looped reads, count [n/5], flag [solo sN], pixel-check, never confabulate).
+	Agents CORRECTLY REJECTED several confabulations (p703 s3 invented Milan content; p704 s2/s5 read
+	"de Fagnano" where ink = "de Ramello"; p707 s4 invented a fresh 1512 opening). Highlights:
+	· MULTIPLE WILL OPENINGS confirmed (c.1 p695, c.3 p697, c.6 p700 all re-date to 1512) → the volume
+	  is a DOSSIER of several Fagnani testaments/copies, not one will.
+	· c.8/c.12 (p702/p706): the S. GIACOMO CHURCH-COMPLETION bequest — ancona (Madonna+Bambino, Ss.
+	  Pietro/Paolo/Giacomo/Giovanni Battista, angelo musico), presbytery vault frescoes (4 Dottori + 4
+	  Evangelisti + Dio Padre al centro), campanile — by painter **magister Iohannes Augustinus de
+	  Laude = GIOVANNI AGOSTINO DA LODI** [web-confirmed: Prima Saronno / Biscottini-Crippa 1989].
+	· ★ NEW (non-web) NAMES recovered: original will's NOTARY **Iohannes de [la Porta?], notarius
+	  Mediolanensis** (cited on p706 AND p708, 2 independent reads → credible, surname [?]); COPYIST/
+	  collazionatore **Donato Bonarico** (p708, 4/5 + pixel-confirmed "Bonaric[i]o"); dowry-instrument
+	  notary **Iohannes Petrus de Carcano** (p707, 1/5); a **presbiter Alexander** (p701, 3/5+pixel);
+	  the priest-son **Giovanni Fagnani, poi PREVOSTO di S. Giacomo**, via cui fu ottenuta la copia
+	  (p708, 1/5). Also a "de Ramello" Fagnani branch (p704, 3/5+pixel).
+	· NO notarial subscription / witness list survives legibly on any leaf (c.14 = a provenance DOCKET,
+	  not the eschatocol). p706 = a two-leaf SPREAD (one PDF extract, both leaves transcribed).
+	CONFIDENCE per page: p700 converged (will opening); p702/p706-left converged-on-substance (church
+	bequest, web-backed); p699/p701/p704/p705/p707/p708 mixed→degenerate (flagged candidates). The
+	whole document remains a strong candidate for a paleographer + (ideally) a >200 ppi rescan.

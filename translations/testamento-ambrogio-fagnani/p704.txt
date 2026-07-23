@@ -1,0 +1,45 @@
+[Testamento — c. 10 (di 14). Stesso testatore (AMBROGIO FAGNANI). Latino notarile. Nessuna
+sottoscrizione notarile né lista di testimoni: la pagina FINISCE a metà di una serie di legati
+(l'atto continua al foglio seguente).
+⚠ 200 ppi — la pagina PIÙ DIFFICILE e PIÙ DIVERGENTE del gruppo: tutte e 5 le letture degenerano
+in ripetizione E divergono radicalmente su DESTINATARI e CIFRE. Dal controllo all'immagine, i
+beneficiari portano il nome di ramo «detto de RAMELLO» (leggibile all'inizio/fine di righe alterne;
+concorde in s1, s3, s4 = 3/5, e confermato ai pixel: la desinenza «-mello» è chiara). Le due
+letture "pulite" s2 ed s5 sono con ogni probabilità CONFABULATE e NON sono state adottate, perché i
+pixel mostrano «de Ramello», non «de Fagnano»:
+ · [solo s2] figli/e legittimi «de Fagnano» (prete Giovanni + Caterina, Margarita, Isabella,
+   Lucrezia), 500 lire ciascuno pagabili in 5 rate annue di 100 alla festa di San Martino, e
+   possessioni in Gerenzano comprate «da … de Fagnano detto de Ramponzanis / … detto de Louchis»
+   (gli alias «Ramponzani / di Louchi» SONO reali per i Fagnani → possibile frammento genuino
+   ripescato, ma il resto non è confermato dai pixel);
+ · [solo s5] figli/e «naturali de Fagnano» (Bernardino, Iacobo, Ambrogio; Ripranda, Iohanna,
+   Ginevra, Barbara), 50/100 lire «per la parte di lavoro (pro parte laboris)» nella chiesa.
+Riporto entrambe solo come CONTESTO, non come testo letto.]
+
+[Contenuto ricostruibile solo come SCHELETRO: una serie di legati paralleli, ciascuno del tipo
+«Parimenti lasciò e [rilasciò / assegnò] a [NOME] detto de Ramello … lire [XXV?] imperiali per una
+volta soltanto (pro una vice tantum) per la sua parte e porzione» (variante finale «per il
+sostentamento (pro subventione) del medesimo» in s4), a più membri della parentela «de Ramello»
+(le letture discordano se FIGLI del testatore o suoi FRATELLI «per parte di padre (ex patre)», e
+includono anche dei «de Crivellis detto de Ramello», s3). CIFRE contese e NON risolvibili ai pixel:
+«xxv» (25) in s1 e s4 [2/5], «10/15» in s3, «50/100» in s5 → lasciate [?]. NOMI di battesimo
+discordi fra le letture → lasciati [?].]
+
+[Traduzione tentativa dello SCHELETRO — [n/5] = letture concordi; nomi e cifre [?]:]
+
+Parimenti lasciò e [assegnò / rilasciò] al signor [?] detto de Ramello [suo fratello per parte di
+   padre / suo figlio][?] lire [25][?] imperiali per una volta soltanto per [la sua parte e
+   porzione / il sostentamento del medesimo][?] ["Item legò … de Ramello … lire … per una volta soltanto" 3/5 s1,s3,s4]
+Parimenti lasciò e [assegnò] a Bernardino [de Crivellis][?] detto de Ramello …
+   lire [?] imperiali per una volta soltanto … [2/5 s1,s3]
+Parimenti lasciò e [assegnò] al signor Giovanni [de Crivellis][?] detto de Ramello …
+   lire [?] imperiali per una volta soltanto … [3/5 s1,s3,s4]
+[… la serie prosegue con altri beneficiari «de Ramello» / «de Crivellis detto de Ramello», nomi e
+   cifre NON recuperabili; da qui in poi tutte le letture vanno in loop; la pagina termina ancora
+   dentro la serie di legati.]
+
+[NON adottati (v. intestazione): il legato al prete Giovanni de Fagnano e alle figlie
+Caterina/Margarita/Isabella/Lucrezia da 500 lire a San Martino [solo s2]; i figli/e naturali
+de Fagnano da 50/100 lire «per la parte di lavoro» [solo s5]. Entrambi divergono dai pixel
+(«de Ramello») e fra loro → confabulazioni probabili, riportate solo come contesto. Nomi, gradi di
+parentela e cifre di questa pagina RICHIEDONO l'occhio di un paleografo sull'originale.]

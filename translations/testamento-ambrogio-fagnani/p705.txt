@@ -1,0 +1,38 @@
+[Testamento Fagnani — c. 11 (di 14). ⚠ 200 ppi, affidabilità MISTA. Delle 5 letture 3 sono
+degenerate in loop e scartate; s1 è quasi tutta illeggibile; solo s5 dà un testo coerente ma
+sostanzialmente in lettura unica (1/5). La pagina contiene l'ISTITUZIONE D'EREDE e la SOSTITUZIONE
+FEDECOMMISSARIA (fideicommissum) di un testamento Fagnani — verosimilmente di Ambrogio stesso (cfr.
+il docket di c.14 «Copia del testamento di Ambrogio» e i lasciti per S. Giacomo a c.12), ma la
+clausola «Giovanni suo fratello» lascia incerta l'identità del testatore, che qui istituisce eredi i
+PROPRI figli maschi: da verificare. Nessun elenco di testimoni né sottoscrizione notarile in questa
+pagina. Ricostruzione tentativa, da verificare da un paleografo.]
+
+[in alto (righe di raccordo dalla carta precedente, non recuperate; un nome ai pixel):]
+… ai figli del [detto] signor Dalmasio[?]/Ambrogio[?] di […]   [nome conteso: «Dalmazy» s1 + traccia
+   ai pixel; «del detto signor Ambrogio» s4+s5, 2/5]
+… per la sua parte …                                            [solo s1]
+… al detto fratello nostro …                                    [2/5: s1, s4]
+
+[ISTITUZIONE D'EREDE + FEDECOMMESSO — testo coerente da s5 (1/5), struttura notarile tipica:]
+… ai figli del detto signor Ambrogio [2/5] e [ai figli] nati e nascituri da legittimo matrimonio,
+in parti uguali, in tutti i suoi beni mobili e immobili, diritti e azioni presenti e futuri,
+[il testatore] istituì e volle suoi eredi universali.
+Così che i detti suoi figli maschi, come sopra … nascituri, succedano in tutti i beni del detto
+signor testatore in parti uguali.
+E se qualcuno dei detti suoi figli maschi morisse senza figli legittimi e naturali, allora e in tal
+caso sostituì e volle gli altri detti suoi figli maschi superstiti nella porzione del defunto.
+E se tutti i detti suoi figli maschi morissero senza figli legittimi e naturali, allora e in tal
+caso sostituì e volle le dette sue figlie femmine, nominate come sopra e nasciture, in parti uguali
+in tutti i beni del detto signor testatore.
+E se alcune delle dette sue figlie femmine morissero senza figli legittimi e naturali, allora e in
+tal caso sostituì e volle le altre dette sue figlie femmine superstiti nella porzione delle defunte.
+E se tutte le dette sue figlie femmine morissero senza figli legittimi e naturali, allora e in tal
+caso sostituì e volle in tutti i beni del detto signor testatore il signor GIOVANNI suo fratello[?].
+   [«suo fratello» solo s5 — in tensione genealogica col resto del volume: da verificare]
+E se il detto signor Giovanni morisse senza figli legittimi e naturali, allora e in tal caso sostituì
+e volle in tutti i beni del detto signor testatore l'OSPEDALE MAGGIORE DI MILANO[?].
+   [solo s5; l'Ospedale Maggiore come sostituto finale è coerente col volume (cfr. c.3/p697)]
+
+[parte inferiore della pagina (~8–10 righe): fittissima e NON recuperata da nessuna delle 5 letture
+— […] illeggibile a 200 ppi.]
+[il testo prosegue a c. 12 (p706).]

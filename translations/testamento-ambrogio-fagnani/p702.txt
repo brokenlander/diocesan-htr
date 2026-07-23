@@ -1,0 +1,44 @@
+[Testamento — c. 8 (di 14). Testatore = con ogni probabilità AMBROGIO FAGNANI: il «testatore»
+il cui erede/legatario principale è il figlio prete GIOVANNI («il signor Giovanni, erede
+universale (heres universalis) del predetto testatore, suo signor padre», s1), che dispone
+dell'ancona (pala d'altare) e degli affreschi della chiesa di S. Giacomo (che Ambrogio ampliò e
+dotò). Latino notarile. In questa pagina non c'è confine di documento né sottoscrizione notarile:
+prosegue una clausola dal foglio precedente (c.7).
+⚠ 200 ppi — attendibilità BASSA a livello di singola parola. 3 letture su 5 degenerano in
+ripetizione (s1 dopo ~11 righe; s3 quasi tutta illeggibile; s4 dopo ~7 righe); coerenti solo s2 ed
+s5, e il testo stesso è comunque una catena di clausole parallele. La SOSTANZA converge però fra le
+letture utili E coincide con le fonti d'arte pubblicate su S. Giacomo di Gerenzano E con i pixel —
+verificato all'immagine: «beatissima Vergine Maria», «san Giovanni Battista», «cappella».]
+
+[Contenuto: incarico di COMPLETARE (a) l'ANCONA / pala d'altare con la figura della beatissima
+Vergine Maria «in mezzo» ai Ss. Pietro e Paolo, Giacomo e Giovanni Battista, per la cappella di
+S. Giacomo; e (b) i QUATTRO EVANGELISTI e i quattro DOTTORI della Chiesa (affreschi), con un
+pagamento di «8 soldi» / «10 soldi» per ciascuna figura, il tutto da eseguirsi nella chiesa di
+S. Giacomo, come parrà all'erede prete Giovanni. Coincide con la pala documentata (Madonna col
+Bambino + Ss. Pietro, Paolo, Giacomo e Giovanni Battista) e con il programma d'affreschi (Dottori
+della Chiesa + Evangelisti + Dio Padre) attestati per S. Giacomo di Gerenzano.]
+
+[Traduzione tentativa — [n/5] = quante letture su 5 concordano; [solo sN] = una sola lettura:]
+
+... pagati (reponsis)[?] al signor prete[?] Giovanni, erede universale del predetto [2/5 s1,s4]
+testatore, suo signor padre, per un'ancona (pala d'altare) [«ancona» 3/5 s1,s2,s5]
+[…] agli eredi già nominati dello stesso testatore, [2/5 s2,s5]
+da raffigurarsi in quella immagine (figura) della beatissima Vergine [verificato ai pixel]
+Maria in mezzo ai santi Pietro e Paolo, san Giacomo [3/5 s1,s2,s5]
+e san Giovanni [Apostolo e Precursore / Battista][?] [«Battista» 2/5 s2,s5; verif. ai pixel]
+per la predetta cappella di san Giacomo [«cappella di S. Giacomo» 4/5 s1,s2,s4,s5; verif. ai pixel]
+dove il predetto signor Giovanni, erede [del testatore], la vorrà raffigurare [solo s1]
+e come parrà e piacerà allo stesso signor Giovanni, erede predetto [solo s1]
+[…]
+[e per] i quattro Evangelisti si diano 8 soldi (solidi octo) per ciascuno di essi [solo s2]
+e per i quattro Dottori della santa madre Chiesa [solo s5; coerente col programma d'affreschi documentato]
+[…] si diano 10 soldi (solidi decem) per ciascuno di essi [solo s2]
+[…] e ciò si faccia nella detta chiesa di san Giacomo, nel detto tempo o prima se si potrà [solo s2]
+[…]
+
+[Da qui in poi TUTTE le letture DEGENERANO in ripetizione (s1: «come parrà al signor Giovanni,
+erede predetto / e piacerà, e ciò in quella immagine, e» ×N; s4: «come sopra» ×N; s3: «[...]» ×N;
+s5: «come nel detto testamento» ×N). Il segmento reale è una catena di clausole parallele sul
+completamento dell'ancona e degli affreschi (Evangelisti + Dottori), non recuperabile parola per
+parola a 200 ppi. Le cifre esatte (8 / 10 soldi) e l'ordine delle figure restano da verificare da
+un paleografo.]

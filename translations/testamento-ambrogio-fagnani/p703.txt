@@ -1,0 +1,41 @@
+[Testamento — c. 9 (di 14). Stesso testatore (AMBROGIO FAGNANI): qui il «testatore» «fece
+edificare la detta chiesa di san Giacomo» e vi «scelse la propria sepoltura» (s4) — cioè colui
+che edificò e dotò S. Giacomo di Gerenzano e vi scelse sepoltura, coerente con Ambrogio. Latino
+notarile. Prosegue dal foglio precedente (la cima della pagina è la coda di una clausola di
+compravendita/garanzia: «per avere e tenere la detta compera ... promessa dai detti venditori»,
+s1). In questa pagina non c'è sottoscrizione notarile.
+⚠ 200 ppi. Buona convergenza sulla SOSTANZA fra s2, s4 ed s5 (3/5). s1 degenera in «e a [...]» ×N.
+s3 è un OUTLIER / probabile CONFABULAZIONE: introduce legati all'Ospedale Maggiore di Milano e ai
+conventi milanesi dei Minori di S. Francesco «dell'Osservanza fuori le mura» e di S. Agostino
+(10 lire ciascuno) — contenuto tipico del testamento nuncupativo milanese (c.3), NON confermato dai
+pixel qui né dalle altre 4 letture → SCARTATO. Pixel verificati: «Gerenzano», parcelle «de la
+Valle», confini con terre «de Fagnano», una via e un corso d'acqua letto «…ntis» (verosimilmente
+il «fiume Bozente», il torrente Bozzente di Gerenzano — ma [solo s5]).]
+
+[Contenuto (s2 + s4 + s5): il testatore lascia alla CHIESA DI S. GIACOMO di Gerenzano (pieve
+d'Appiano, ducato di Milano) — e per essa al prete GIOVANNI suo figlio, cappellano/rettore della
+chiesa, e ai suoi successori — alcune PEZZE DI TERRA nel territorio di Gerenzano «là dove si dice
+al prato / al campo de la Valle» (un prato + un arativo-vitato), confinanti con terre dei «de
+Fagnano», una via e il «fiume Bozente»[?]; e ciò per la DOTE della chiesa, la celebrazione di UNA
+MESSA SETTIMANALE («in qualibet ebdomada», ogni settimana) in S. Giacomo, la manutenzione e gli
+altri oneri della chiesa, IN PERPETUO, con clausola di devoluzione agli eredi in caso
+d'inadempimento.]
+
+[Traduzione tentativa — [n/5] = letture concordi; [solo sN] = una sola lettura:]
+
+Parimenti lasciò e legò [a titolo di legato …] alla chiesa di San Giacomo posta nel territorio [3/5 s2,s4,s5]
+di Gerenzano, pieve d'Appiano, ducato di Milano, e per essa al prete Giovanni [3/5 s2,s4,s5]
+suo figlio e cappellano [/ rettore] della detta chiesa, e ai suoi successori nella detta chiesa, cioè [3/5]
+quella pezza di terra prativa posta nel territorio di Gerenzano là dove si dice al [2/5 s2,s5]
+prato de la Valle, cui confina a levante [gli eredi del fu signor Giovanni de Fagnano /
+   i signori de Fagnano][?], a mezzogiorno una via, a ponente [una via / eredi de Fagnano][?],
+   a monte il fiume Bozente[?] [«de Fagnano» 2/5 s2,s5; «Bozente» solo s5, torrente reale di Gerenzano, verif. ai pixel come «…ntis»]
+e ciò per la celebrazione di una messa ogni settimana nella detta chiesa [solo s2, coerente]
+di San Giacomo, e per la manutenzione della detta chiesa e per gli altri oneri di essa, in perpetuo [solo s2]
+Parimenti lasciò e legò … [un'altra] pezza di terra arativa e vitata posta nel detto territorio
+là dove si dice al campo de la Valle, cui confina … a monte il fiume Bozente[?] [2/5 s2,s5]
+[…]
+
+[s1 DEGENERATA («e a [...]» ×N, coda della clausola di compravendita) ed s3 SCARTATA (v. sopra)
+non hanno concorso alla ricostruzione. I nomi propri (il prete Giovanni; i «de Fagnano»
+confinanti) e il toponimo del corso d'acqua restano da verificare da un paleografo.]

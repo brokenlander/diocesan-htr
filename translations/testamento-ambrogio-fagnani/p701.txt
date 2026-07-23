@@ -1,0 +1,65 @@
+[Testamento — c. 7 (di 14). Continua l'atto di c. 6 (p700): disposizioni di AMBROGIO FAGNANI (1512).
+⚠⚠ PAGINA A BASSISSIMA AFFIDABILITÀ (200 ppi; scrittura fittissima, ~34 righe, molto sbiadita,
+trasparenza dal verso). Le 5 letture NON convergono su un'unica sequenza di clausole: s1 degenera
+in loop (si conserva solo il frammento iniziale); s3 e s5 degenerano in loop su clausole DIVERSE;
+s2 e s4 danno clausole ancora diverse. Ai pixel si CONFERMANO alcuni ancoraggi (sotto), ma la
+successione e i dettagli restano incerti. Ogni clausola è data come CANDIDATA, con [n/5] / [solo
+sN]; NON è una sequenza continua accertata. Traduzione tentativa, da verificare da un paleografo.]
+
+── ANCORAGGI (confermati ai pixel e/o da più letture) ──
+· «prete Alessandro» (presbiter Allexander) — un SACERDOTE legatario/esecutore [3/5: s2, s3, s5;
+  CONFERMATO ai pixel a fine r.1 e nella fascia centrale]. Nome NUOVO, non presente nel glossario.
+· «per me notaio infrascritto» (per me notarium infrascriptum) — auto-riferimento del NOTAIO
+  estensore, SENZA nome [2/5: s4, s5].
+· ridatazione «nell'anno … millecinquecentododici (1512), indizione quindicesima, lunedì diciotto
+  del mese di ottobre» (= la data del testamento) [solo s5, ma coerente con c. 6].
+
+── r.1 — apertura di clausola (CONFERMATA ai pixel: «prete Alessandro» a fine riga) ──
+«E ciò a condizione che gli stessi signori prete Alessandro [3/5] …»
+
+── Clausola-candidata A — ELEMOSINA di frumento ai poveri nella festa di S. Giacomo ──
+[s2 (1/5); coerente coi pixel di r.1–2 («… debbano dare … frumento»). Nomi/cifre da verificare:]
+«E ciò a condizione che gli stessi signori prete Alessandro e [il nobile signor] Giovanni Giacomo[?]
+e i loro legittimi discendenti maschi di linea maschile … debbano dare e consegnare … ai poveri di
+Cristo una certa elemosina in perpetuo, ogni anno, cioè nella festa di San Giacomo del mese di
+luglio, buon frumento nella misura di Milano, due moggia; … e nel caso in cui … non volessero o
+rifiutassero di dare … allora … [la darebbero] i signori scolari della scuola di San Giacomo di
+Gerenzano … fino alla quantità corrispondente a dette due moggia di frumento e non oltre.»
+
+── Clausola-candidata B — facoltà di ESIGERE i CREDITI del testatore e del padre Giovanni ──
+[s3 (1/5, poi in loop); «reddere / rationem» confermato ai pixel nella fascia centrale:]
+«E ciò a condizione che gli stessi signori prete Alessandro e signor Giovanni, fratelli del detto
+signor testatore, possano e abbiano facoltà … di esigere e recuperare da qualsiasi persona
+debitrice del detto signor testatore e del predetto signor Giovanni loro padre tutti e singoli i
+debiti e crediti …, e di essi … non siano tenuti a rendere alcun conto ai signori eredi del
+predetto testatore né ad alcun'altra persona.» [NB: qui i fratelli del testatore sono il prete
+Alessandro e Giovanni, figli di un Giovanni — in TENSIONE con l'identificazione del testatore come
+Ambrogio (a c. 6 figlio del fu Giovanni): da chiarire; forse redazione/atto di altro membro
+Fagnani, oppure lettura confusa.]
+
+── Clausola-candidata C — legato alla chiesa di S. Giacomo / al prete Alessandro, con 100 messe e una pezza di terra ──
+[s5 (1/5, poi in loop); «cento messe» e confini illeggibili:]
+«Parimenti lasciò a detta chiesa di San Giacomo, e per essa al detto prete Alessandro, per il suo
+vitto e vestito come sopra, tutte e singole le altre sue cose e beni mobili e immobili, diritti e
+azioni, in detto luogo di Gerenzano e nel suo territorio …, con questa però condizione e onere che
+detto prete Alessandro sia tenuto e debba ogni anno celebrare o far celebrare in detta chiesa di San
+Giacomo cento[?] messe per l'anima del detto testatore e dei suoi defunti …; parimenti … quella
+pezza di terra aratoria e vitata giacente nel territorio di detto luogo di Gerenzano, in luogo detto
+"a […]", cui confina a levante […], a mezzogiorno […], a ponente […], a monte (nord) […].»
+
+── Clausola-candidata D — legato usufruttuario alla MOGLIE (Margherita?) e alla FIGLIA Caterina ──
+[s4 (1/5); nomi da verificare; contiene il rimando al notaio e all'ancona:]
+«E ciò sempre a condizione che il detto erede del detto signor testatore sia tenuto a far realizzare
+detta ancona come sopra, come … appare dall'istrumento tradito e rogato da me notaio infrascritto …
+[2/5 il rimando al notaio].
+Parimenti il detto signor testatore lasciò e legò alla signora Margherita[?] de […], sua diletta
+moglie, tutti e singoli i beni mobili e immobili, diritti e azioni a lui testatore spettanti … nel
+territorio di Gerenzano …, [da tenere] solo in vita sua, e dopo la sua morte detti beni tornino al
+detto suo erede … e ciò per la sua dote e per il suo vitto e vestito …
+Parimenti il detto signor testatore lasciò e legò alla signora Caterina[?] sua diletta figlia e
+moglie del signor Giovanni de […] tutti e singoli i beni … [analoga clausola usufruttuaria].»
+[NB: «Margherita» moglie è in tensione con c. 6, dove la moglie non è nominata.]
+
+[N.B. — NESSUNA sottoscrizione notarile CON NOME né lista di testimoni in questa pagina: il notaio
+compare solo come «me infrascritto» (rimando). Sottoscrizione e testimoni attesi in un foglio
+successivo (c. 8+).]

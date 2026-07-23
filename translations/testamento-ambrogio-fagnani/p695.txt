@@ -1,41 +1,59 @@
-[Testamento di Ambrogio Fagnani detto Faruffini, 18 ottobre 1517 — c. 1 (di 14). Tradotto
-dal latino notarile. ⚠ Vale l'avvertenza di trascrizione: oltre il protocollo iniziale (data,
-identità, sepoltura, primi legati) i nomi propri sono incerti alla risoluzione di 200 ppi e sono
-marcati [?].]
+[Testamento di Ambrogio Fagnani detto Faruffini — c. 1 (di 14), 18 ottobre 1512. Tradotto dal
+latino notarile.
+⚠ Ricostruzione da un ensemble di 5 letture (v. la nota nella trascrizione). Protocollo verificato
+ai pixel; parte centrale/bassa (dote, eredi) sotto la soglia di leggibilità → migliore lettura
+d'insieme, con [n/5] = quante letture concordano; clausole a lettura singola marcate [?].
+Correzioni rispetto alla prima stesura: anno 1512 (non 1517); recuperata la moglie Giovannina;
+figlio e figlie sono EREDI UNIVERSALI in parti uguali, non legatari di 100 lire ciascuno.]
 
 [margine sinistro, altra mano/segnatura: croce e lettere «F. A.»; controscritto del verso non tradotto]
 
 Copia del testamento del fu signor Ambrogio de Fagnano detto Faruffini.
 Nel nome del Signore, amen. Nell'anno dalla sua Natività mille-
-cinquecento diciassette, indizione quindicesima, il giorno di lunedì
-diciotto del mese di ottobre. Poiché nulla è più certo della morte
-e nulla più incerto dell'ora della morte, avviene che il prudente e assennato
-signor Ambrogio de Fagnano detto Faruffini, figlio del fu signor
-Giovanni, abitante del luogo di Gerenzano, Pieve d'Appiano, ducato di Milano, sano di mente,
-di senno, di vista e d'intelletto, benché languente nel corpo, non volendo uscire da questo mondo
-intestato, redasse e fece il suo testamento e ultima
-volontà nel modo che segue, cioè. In primo luogo raccomandò la sua anima
-umilmente e devotamente al suo altissimo Creatore, alla gloriosa Vergine Maria e a tutta la
-corte celeste; e volle e ordinò che il suo corpo fosse sepolto
-nella chiesa campestre di San Giacomo del detto luogo di
-Gerenzano, nel sepolcro dei suoi avi. Parimenti lasciò e legò
-alla fabbrica della detta chiesa di San Giacomo lire dieci imperiali per una
-sola volta. Parimenti lasciò e legò alla scola di Santa Maria del detto
-luogo lire cinque imperiali per una sola volta. Parimenti lasciò
-e legò al signor presbitero Giovanni[?] de Fagnano, suo figlio naturale
-e legittimo, lire cento imperiali per una sola volta. Parimenti
-lasciò e legò alla signora Caterina[?] de Fagnano, sua figlia naturale
-e legittima, lire cento imperiali per una sola volta. Parimenti
-lasciò e legò alla signora Margherita[?] de Fagnano, sua figlia naturale
-e legittima, lire cento imperiali per una sola volta. Parimenti
-lasciò e legò alla signora Isabella[?] de Fagnano, sua figlia naturale
-e legittima, lire cento imperiali per una sola volta. Parimenti
-lasciò e legò alla signora Lucrezia[?] de Fagnano, sua figlia naturale
-e legittima, lire cento imperiali per una sola volta. Parimenti
-lasciò e legò alla signora Beatrice[?] de Fagnano, sua figlia naturale
-e legittima, lire cento imperiali per una sola volta. Parimenti
-lasciò e legò alla signora Francesca[?] de Fagnano, sua figlia naturale
-e legittima, lire cento imperiali per una sola volta. Parimenti
-lasciò e legò alla signora Lucia[?] de Fagnano, sua figlia naturale
-e legittima, lire cento imperiali per una sola volta.
-[il testo prosegue a c. 2 (p696)]
+cinquecento dodici [1512, 4/5], indizione quindicesima [5/5], il giorno di lunedì
+diciotto del mese di ottobre. Poiché nulla è più certo della morte e nulla più
+incerto dell'ora della morte, e affinché — per gli improvvisi casi di morte che
+spesso capitano nelle cose umane — non si provveda [solo] a morte già
+sopraggiunta, perciò il previdente signor Ambrogio de Fagnano, figlio del fu
+signor Giovanni, che tiene il suo domicilio abituale nel luogo di Gerenzano,
+Pieve d'Appiano, ducato di Milano, sano di mente, di senno e d'intelletto, benché
+alquanto languente nel corpo per grazia di Dio, redasse e fece il suo testamento e
+ultima volontà nel modo che segue, cioè. In primo luogo raccomandò umilmente e
+devotamente la sua anima al suo altissimo Creatore, alla gloriosa Vergine Maria e a
+tutta la corte celeste. E volle che il suo corpo fosse sepolto nella chiesa di San
+Giacomo [5/5] posta nel territorio del detto luogo di Gerenzano. Parimenti giudicò e
+legò alla scola di Santa Maria [3/5], ossia al consorzio di quelli della scola del
+detto luogo di Gerenzano, lire cinque imperiali una sola volta, da pagarsi dai suoi
+eredi sotto indicati entro un anno prossimo venturo dal giorno della sua morte, per
+l'anima sua e dei suoi defunti.
+[legato di lire dieci alla fabbrica di San Giacomo: lettura minoritaria (2/5), incerta — [?]]
+Parimenti giudicò e legò alla signora Giovannina [3/5], sua diletta moglie, tutto ciò
+che essa signora Giovannina portò in dote al signor Ambrogio al tempo del loro
+matrimonio; e oltre la dote, volle e ordinò che essa signora Giovannina sia e debba
+essere signora e usufruttuaria[?] di tutti e singoli i beni del signor testatore per
+tutta la sua vita naturale, purché essa rimanga nello stato vedovile e viva
+castamente, e non altrimenti né in altro modo. [clausola d'usufrutto: 1/5]
+[⚠ Struttura contesa — le 5 letture si dividono 2–2 su come dispone di figlio e figlie; i nomi
+concordano, la forma giuridica no; i pixel non permettono di decidere:
+  · variante A (s4, s5): li istituisce tutti EREDI UNIVERSALI in parti uguali — «in tutti gli altri
+    suoi beni mobili e immobili, diritti e azioni, presenti e futuri, istituì suoi eredi universali
+    il signor presbitero Giovanni, suo figlio legittimo e naturale, e le signore Caterina,
+    Margherita, Isabella, Lucrezia, Beatrice, Francesca e Lucia, sue figlie, in parti uguali»;
+  · variante B (s1, s3): lascia a CIASCUNA FIGLIA un legato di 100 lire (s3: «a titolo di dote»),
+    istituendo presumibilmente erede il figlio.
+Figlio: **signor presbitero Giovanni**, figlio legittimo e naturale. Figlie (nomi 3/5): **Caterina,
+Margherita, Isabella, Lucrezia, Beatrice, Francesca, Lucia**.
+[Nota cross-charter: gli altri atti del dossier propendono per il figlio erede e le figlie
+legatarie/dotate (variante B): c.8 legge il figlio prete Giovanni «erede universale»; c.11/c.13
+istituiscono eredi i figli Giovanni Giacomo e Giovanni Battista con sostituzione fedecommissaria; e
+c.14 mostra il figlio Giovanni divenuto prevosto di S. Giacomo. Nessuna carta fa delle figlie coeredi
+in parti uguali. Resta comunque [?]: atti e mani diversi, e i pixel di c.1 non decidono.]]
+E questo è il suo testamento e la sua ultima volontà, che volle valesse per diritto
+testamentario, e, qualora non valesse per diritto testamentario, volle valesse per
+diritto di codicillo e di qualsiasi altra ultima volontà; cassando e annullando ogni
+altro testamento da lui fin qui fatto e redatto. Pregando me notaio sottoscritto di
+redigere delle premesse uno o più pubblici strumenti.
+[Il testamento prosegue a c. 2 (p696) con la clausola di validità ripetuta e ulteriori legati, fra
+cui quello alla chiesa di S. Giacomo «così come da lui stesso edificata» (cfr. le fonti a stampa:
+Ambrogio Fagnani ampliò la chiesa di S. Giacomo). La sottoscrizione notarile e i testimoni sono più
+avanti nel documento.]

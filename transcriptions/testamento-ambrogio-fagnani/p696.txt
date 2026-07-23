@@ -1,0 +1,46 @@
+[Testamento di Ambrogio Fagnani detto Faruffini — c. 2 (di 14). Séguito del testamento (NON è la
+sottoscrizione: prosegue con altri legati). Latino notarile.
+⚠ 200 ppi + inchiostro sbiadito. Ricostruzione da ENSEMBLE di 5 letture Gemini 3.1 + pixel + il
+prior a stampa sulla chiesa di S. Giacomo. Grado di concordanza [n/5] sui punti chiave. Il legato
+per il COMPLETAMENTO DELLA CHIESA (ancona dell'altar maggiore, immagine di S. Maria, campanile e due
+campane) è concorde 2–4/5 ED è confermato dalle fonti a stampa (Ambrogio Fagnani ampliò S. Giacomo e
+ne fece innalzare il campanile). I dettagli della metà bassa (legato al figlio presbitero; secondo
+sepolcro «ad clusum»; confinanti Castiglioni) sono a LETTURA SINGOLA (solo s4, 1/5) e NON
+verificabili ai pixel a questa risoluzione → marcati [solo s4].]
+
+quod quidem presens test[amentu]m, et pro eo p[ro]ut sup[er]ius
+scriptum est, per eundem d[omi]num testatorem lectum et
+declaratum fuit presentibus testibus infrascriptis, et per ip[su]m testatorem
+clausum [et suo signo/sigillo roboratum].
+
+[legato al figlio — solo s4:] Item reliquit et legavit d[ic]to p[res]b[ite]ro Iohanni eius filio, pro eo
+ut adesse dignetur ad exequias suas, unum par vestium
+pro ipso p[res]b[ite]ro Iohanne p[ro]ut sibi videbitur pro opportunis suis […]
+et hoc pro omni iure, portione et legitima sibi d[ic]to p[res]b[ite]ro Iohanni spectante ex d[ic]to suo d[omi]no
+testatore, pro quacumque causa et ratione quacumque.
+[clausola di garanzia — solo s4:] Item reliquit et legavit et ordinavit q[uod] si in futurum aliquod
+legatum ablatum fuerit per quoscumque, q[uod] reddantur illis vel illi
+cui vel quibus ablatum fuerit, p[ro]ut ipse d[omi]nus testator […]
+
+[★ LEGATO PER LA CHIESA DI S. GIACOMO — concorde 2–4/5, confermato dalle fonti a stampa:]
+Item reliquit et legavit et ordinavit q[uod] in d[ic]ta eccl[esi]a S[ancti] Iacobi [4/5]
+teritorio de Gierenzano fiat retabulum pro altari maiori [ancona: 2/5]
+et aptetur p[ro]ut in eo inceptum fuit, et finiat[ur] […]
+una[m] anconam deauratam […] in qua ancona sit imago,
+p[ro]ut in ea inceptum est; et ibi fiat unum altare et ibi ponat[ur]
+imago d[ic]te S[ancte] Marie [imago S. Marie: 1/5]; et finiat[ur] illud campanile [campanile: 2/5] pro
+d[ic]ta eccl[esi]a sicut inceptum est, et ibi ponantur due campane [campane: 3/5]
+que sint pro ip[s]a eccl[esi]a et pro congregatione vicinorum d[ic]ti loci.
+Et q[uod] idem d[omi]nus testator [ordinavit] […] et ordinavit ut fiat paries prope
+illam domum sicut inceptum est, et hoc expensis suorum h[ere]dum infrascriptorum.
+
+[SECONDO SEPOLCRO «ad clusum» — solo s4, non verificato ai pixel:]
+Item reliquit et ordinavit q[uod] in d[ic]ta domo de p[ro]prio
+eius d[omi]ni testatoris, et in p[ro]prio loco prope d[ic]tam domum
+sitam in d[ic]to loco de Gierenzano ubi dicitur
+ad clusum[?], in qua est una pecia prati — ab alia
+parte Ludovici de Castiliono[?], ab alia d[omi]ni
+Iohannis de Castiliono[?], ab alia via — […]
+fiat unum pratum et ibi fiat unum
+sepulcrum ubi ipse d[omi]nus testator sepeliatur, et ibi […]
+[il testo prosegue a c. 3 (p697).]
