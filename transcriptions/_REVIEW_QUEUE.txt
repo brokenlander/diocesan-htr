@@ -505,3 +505,31 @@ NAME / DATE CONTESTS for paleographer:
   likely earlier (pre-1865) — date the letter (no year on the pages; internal "verso il finire di Maggio").
 - Mentions the "Bozzente vecchio" stream, drowning of a girl ("annegata una sgraziata fanciulletta",
   2nd such case under his cure). Undated — needs dating from context/hand.
+# ---- Capture 3 (2026-07-23) ----
+# 03-04 (Fondo III, fasc. 4 — Stato anime + tabella legati, c. 1739–1755). NAMING OPEN: no
+#   archival cover was photographed for Fondo III; slug `03-04` is provisional (per the `12-10`
+#   convention). Confirm the register title with the owner.
+p634b	[03-04] Stato anime totals to VERIFY at pixels: famiglie 160; secolari M 380 / F 387; non-atti 336; "tutti assieme 1108". Coadiutore count struck.
+p635a	[03-04] hard names: "Monache d'Arona"[?] (Purificazione B.V.); Menzago "Pieve d'Arsago"[?]; "Gioanne Posente"[?]; provost surname "Cevrini/Cevrino" vs glossary Armiraglio-era — this is 18th c., a later clergy roster.
+p635b	[03-04] "Gioanni Bozzo"[?] (vs Buzzi); "Domenico Cattaneo d.to Dertone"; family "Cattaneo de Ceconi"; right margin of the b-half runs off the photo edge (line-ends […]).
+p636a	[03-04] cover-title flap partly out of frame at right; "fatta [dal] fu Prevosto Mariani"[?] — Prevosto Mariani is the compiler, verify surname.
+p636b	[03-04] "Maurus Ramponzius"[?]; "Honoratus Maria Dragus Novariensis"[?] (same surname as Joseph Dragus p634a).
+p637	[03-04] "Antonio Zono"[?] (legator; cf. Giacomina Zona p635b/p637) — glossary has "Corno", but pixels read Zono/Zona here. Grain rents in staia to verify.
+p695	[testamento-ambrogio-fagnani] ★ 200 ppi CEILING. c.1 protocol verified (1517, ind. XV, 18 Oct; testator Ambrosius de Fagnano q. Iohannis of Gerenzano; burial S. Giacomo campestre). Legacy list (son Iohannes + daughters Caterina/Margarita/Isabella/Lucrezia/Beatrice/Francesca/Lucia, 100 lire each) rests on formula+Gemini, NOT pixel-verified — every name flagged [?]. Needs a paleographer on the original (or a >200 ppi rescan, if the physical doc is reachable) before the names are trusted.
+
+# ---- Capture 3 · register 06-49 (Gerenzano legati, mostly 1896 recap; p647-p694) ----
+# Reconciled in-session (4 image-grounded sub-agents on the prose pages; in-session on the tables
+# p670-p677). Recurring cross-page anchors CONFIRMED and normalized: Debito Pubblico certificate
+# = 781.907 (Gemini misread 281/381/281 on several pages); Saronno notary = ZERBI (Giuseppe 1817,
+# Giulio 1865/67) — misread "Zerti"/"Giulio Gallico"/"Zucchi"[?]; the Sevesi legato (S. Carlo,
+# Campo Bozzolino) links to register 06-46; the Zoni/Zona legato (p676/p684/p688) links to 03-04.
+p647	[06-49] "Cattaneo Caccia" (NOT "Secca") verified at pixels; cert 781.907; family later "Bondoni/Bendoni" (see p658).
+p649	[06-49] Ajroldi affrancazione date corrected to 15 Giugno 1865 (Gemini "11 Giu 1868"); footnote Mappa N.17 (not 77); proprietor "Carlo Gibiati/Cabiati[?]".
+p651	[06-49] istromento 15 Giugno 1671 (Gemini "11 Giu 1674"); "Sig. Delmayda" family (recurs pp.657-659).
+p653	[06-49] table: notary "Giulio Zucchi" Saronno 14 Dic 1883[?] (vs Zerbi 1865 — same notary?); "Canobbia[?] di Fenegrò" (Gemini "Candia di Grugnò").
+p658-p659	[06-49] family "Bendoni" (NOT Berra/Pendoni), distinct from the "Caccia" legato name; p659 relazione author reads "D. Francesco Bossi[?]" at pixels but context says Sevesi — VERIFY; "Prevosto Canaveri" (Gemini "Canneri").
+p660-p666	[06-49] provost "Magri" vs "Maggi" (1712/1717 legati list, recurs) — VERIFY surname; notary Zerbi Giuseppe(1817)/Giulio(1865); rendita L.20 (not L.40, p663).
+p669	[06-49] provost "Paolo M. Gari[?]" (from 1881) — surname not in glossary, uncertain; prative-total pencil corrections (N.276→274.4).
+p681-p685	[06-49] suppression-law date inconsistency "15 Ag. 1867" (p681/p683) vs "25 Ag. 1867" (p682) — VERIFY; uncertain surnames: notary Olasi/di Novello (p681), canon Orompigo (p681), testator Guidici Matteo (p683, NOT Cattaneo), surveyor Ronfoldi (p684), proprietor Farè (p685), Massi/Mossi + buyer Franchi Angelo (p687).
+p670-p673	[06-49] ★ CADASTRAL ESTIMO LEDGER (47 parcels, Gerenzano/Turate/Cislago/Rescaldina), transcribed BEST-EFFORT at ~2MP: numeric estimo/coerenze cells need a perito. Parcel identity + denominazioni reliable; figures flagged.
+p674-p676	[06-49] affittuari rent-distribution + coerenze tables, best-effort figures. p676 coerenze names the "legato Zoni di Messe a saltem festis".

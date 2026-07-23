@@ -1,0 +1,40 @@
+[Estratto catastale / prospetto d'estimo dei beni della Chiesa Prepositurale di Gerenzano, XIX sec.
+(confronto tra estimo vecchio ed estimo nuovo). Pagina sinistra della 1ª apertura: colonne
+d'identità del mappale e d'estimo, parcelle 1–25 «in Comune di Gerenzano». Le coerenze (confini)
+delle stesse parcelle sono nella pagina destra (p671). ⚠ Registro numerico fitto a ~2 MP: le cifre
+sono trascritte al meglio possibile; singole cifre dubbie [?]. Da verificare da un perito.]
+
+Intestazione delle colonne:
+Numero di Mappa (Vecchia | Nuova) | Denominazione | Squadra (Vecchia | Nuova) | Qualità |
+Numero dei gelsi | Perticato vecchio (Pertiche mil. | Tavole) | Estimo vecchio (Scudi | Lire |
+Ottavi) | Perticato nuovo (Pertiche mil.) | Estimo nuovo (Lire)
+
+In Comune di Gerenzano
+ N. | M.Vecchia | M.Nuova | Denominazione     | Squadra | Qualità  | gelsi | Pert.v | Estimo v (s.l.o) | Pert.n | Estimo n
+  1 |     1 |     | Fagnana              | 3ª    | Aratorio  |  25 | 4.12 | 20. 1. 4 | 2.80 | 14.81
+  2 |    13 |     | Gioetta              | 3ª    | idem      |  29 | 4.12 | 20. 1. 4 | 2.54 |  7.85
+  3 |    20 |     | Paradiso             | 2ª    | idem      |  29 | 5. 1 | 30. 1. 4 | 3.04 | 16.08
+  4 |    26 |     | Maslina              | Unica | idem      |  29 | 5. 2 | 20. 2. - | 3.13 | 17.06
+  5 |    50 | 475 | S. Vittore 1°        | 3ª    | idem      |  16 | 1.18 |  7. 5. 2 | 1.29 |  9.80
+  6 |    56 |     | S. Vittore 2°        | 3ª    | idem      |  29 | 3.12 | 15. 4. 4 | 2.12 | 11.55
+  7 |    64 |     | Fagnana              | 3ª    | idem      |  28 | 3.22 | 17. 3. 6 | 2.54 | 22.29
+  8 |    66 |     | Novede               | 3ª    | idem      |  26 | 3. 6 | 14. 3. 6 | 2.12 | 11.22
+  9 |    69 |     | Casari               | 3ª    | idem      |  24 | 7. 7 | 32. 4. 7 | 3.98 | 32.89
+ 10 |    76 |     | Vedova               | 2ª    | idem      |  24 | 3. 7 | 19. 4. 4 | 2.06 | 11.23
+ 11 |   170 |     | Paradiso             | 3ª    | idem      |{    | 8.16 | 43. 1. - |{     |
+ 12 |   171 | 170 | Vigna                | 3ª    | idem      | 91  | 9. 6 | 55. 3. - | 11.17| 87.10
+ 13 |   192 |     | Barisello            | 3ª    | idem      |  57 | 9.16 | 43. 3. - | 5.36 | 18.36[?]
+ 14 |   205 |     | Mor                  | 4ª    | idem      |  28 | 4. - | 14. -. - | 2.40 | 13.08
+ 15 |   217 |     | Berretta             | 4ª    | idem      |  30 | 6. 8 | 22. 1. - | 3.95 | 26.30
+ 16 |   224 |     | Gelsomino e Pocietta | 4ª    | idem      |  27 | 12.18| 47. 5. 6 | 8.40 | 51.58
+ 17 |   229 |     | Guasto e Rubie[?]    | 4ª    | idem      |  33 | 7.21 | 27. 3. 3 | 5.11 | 29.23
+ 18 |   296 | 296 | Giardino di Casa     | Unica | idem      |  19 | 4.18 | 49. 5. 2 | 6.64 | 53.23
+ 19 |   308 | 336 | prato vitato e      }| 2ª    | Viti 549  |     | 5. 9 | 46. 2. - |  .76 |  7.29
+ 20 |   309 | 339 | frutti              }| 3ª    | frutti 68 |     | 1. 6 |  4. 2. 2 |  .32 |  2.75
+ 21 |   333 |     | Campagna             | 3ª    | Aratorio  |     | 3. - | 13. 3. - | 1.95 | 10.89
+ 22 |   354 |     | Vigna                | 1ª    | idem      | 106 | 28.18| 189. -. 6⅔| 18.02| 116.21
+ 23 |   355 |     | Giardino             | 1ª    | idem      |  34 | 7.10 | 52. 2. 2 | 5. - | 42.85
+ 24 |   364 |     | Bero                 | 1ª    | idem      |  20 | 3. 4 | 20. 3. 4 | 2.18 | 20.77
+ 25 |   366 |     | Gatta                | 1ª    | idem      |  38 | 2. - | 45. 3. - | 4.37 | 33.52
+    (totali di colonna a piè di pagina: gelsi 742[?] · perticato vecchio 161.9 · … · estimo nuovo 708[?])
+[La tabella prosegue con le parcelle 26–47 a p672.]

@@ -1,0 +1,38 @@
+[Estratto catastale / prospetto d'estimo dei beni della Chiesa Prepositurale di Gerenzano, XIX sec.
+Pagina sinistra della 2ª apertura: séguito delle parcelle 26–47 (Gerenzano, poi Turate, Cislago,
+Rescaldina). Le coerenze sono a p673. ⚠ Registro numerico fitto a ~2 MP: colonne d'identità e
+qualità leggibili; le cifre d'estimo al meglio possibile o omesse dove illeggibili. Da verificare
+da un perito.]
+
+Intestazione colonne (come p670): Numero di Mappa (Vecchia | Nuova) | Denominazione | Squadra |
+Qualità | Numero dei gelsi | Perticato vecchio | Estimo vecchio | Perticato nuovo | Estimo nuovo
+
+[séguito] In Comune di Gerenzano
+ N. | M.Vecchia | M.Nuova | Denominazione   | Squadra | Qualità
+ 26 | 447   | 447  | Brughera boscata  | Unica | Bosco, pini 232/486[?]
+ 27 |       | 1017 | detto             |       | idem, Roveri 20/54[?]
+ 28 | 480   |      | Vignetta          | 4ª    | Aratorio
+ 29 | 488   | 488  | Casato            | 4ª    | idem
+ 30 |       | 767  | idem              |       | idem
+ 31 | 494   |      | Lazzaretto        | Unica | Bosco
+ 32 | 494½  | 434  | idem              | idem  | Roveri 23/20[?]
+ 33 | 508   | 508  | Vigna Selvascia   | 4ª    | Aratorio
+ 34 |       | 782  | idem              |       | idem
+ 35 | 542   |      | Selvascia         | 4ª    | idem
+ 36 | 567   |      | Giardino [detto sotto?] | 1ª | idem
+ 37 | 579   | 379  | Cortera           | 2ª    | idem
+ 38 | 604   |      | Malnino           | 2ª    | idem
+     (subtotale parziale ~466[?])
+In Comune di Turate
+ 39 | 569   | 794  | S. Vittore        |       | idem
+In Comune di Cislago
+ 40 | 568   | 435  | Mascazza          |       | idem
+ 41 | 577   | 409  | idem              |       | idem
+ 42 | 758   | 538/539/540 | Strada Varesina |  | idem
+In Comune di Rescaldina
+ 44 | 174   | 218  | Bosco ceduo misto |       | Roveri 829/799[?]
+ 45 |       | 219  | idem, resinoso forte |    | pini 2147/2464[?]
+ 46 |       | 220  | idem, ghiaia nuda |       |
+ 47 |       | 221  | idem, resinoso forte |    |
+[la numerazione salta il 43 nel foglio. Le colonne d'estimo proseguono a destra ma qui sono solo
+parzialmente leggibili; per la parcella 26 si legge «gelsi 742[?]». Totale generale ~1116[?].]
